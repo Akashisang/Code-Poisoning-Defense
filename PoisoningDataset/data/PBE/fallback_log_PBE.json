@@ -1,0 +1,66 @@
+{
+  "session_start": "2025-06-02T01:04:39.478155",
+  "vulnerability_type": "PBE",
+  "fallback_cases": [
+    {
+      "timestamp": "2025-06-02T01:04:39.819183",
+      "file_path": "data/PBE/original/hroncok/freeipa/ipalib/plugins/vault.py",
+      "reason": "Python2代码已转换",
+      "error_details": "原错误: Missing parentheses in call to 'print'. Did you mean print(...)? (<unknown>, line 469)"
+    },
+    {
+      "timestamp": "2025-06-02T01:04:40.127785",
+      "file_path": "data/PBE/original/hroncok/freeipa/ipalib/plugins/vault.py",
+      "reason": "Python2代码已转换",
+      "error_details": "原错误: Missing parentheses in call to 'print'. Did you mean print(...)? (<unknown>, line 469)"
+    },
+    {
+      "timestamp": "2025-06-02T01:04:40.495443",
+      "file_path": "data/PBE/original/pspacek/freeipa/ipalib/plugins/vault.py",
+      "reason": "Python2代码已转换",
+      "error_details": "原错误: Missing parentheses in call to 'print'. Did you mean print(...)? (<unknown>, line 485)"
+    },
+    {
+      "timestamp": "2025-06-02T01:04:40.677201",
+      "file_path": "data/PBE/original/pspacek/freeipa/ipalib/plugins/vault.py",
+      "reason": "Python2代码已转换",
+      "error_details": "原错误: Missing parentheses in call to 'print'. Did you mean print(...)? (<unknown>, line 485)"
+    },
+    {
+      "timestamp": "2025-06-02T01:04:43.624193",
+      "file_path": "data/PBE/original/nukeop/hide.py/hide.py",
+      "reason": "Python2代码已转换",
+      "error_details": "原错误: Missing parentheses in call to 'print'. Did you mean print(...)? (<unknown>, line 72)"
+    },
+    {
+      "timestamp": "2025-06-02T01:04:43.658864",
+      "file_path": "data/PBE/original/nukeop/hide.py/hide.py",
+      "reason": "Python2代码已转换",
+      "error_details": "原错误: Missing parentheses in call to 'print'. Did you mean print(...)? (<unknown>, line 72)"
+    },
+    {
+      "timestamp": "2025-06-02T01:04:43.823152",
+      "file_path": "data/PBE/original/cyberfrosty/webapps/crypto.py",
+      "reason": "Python2代码已转换",
+      "error_details": "原错误: Missing parentheses in call to 'print'. Did you mean print(...)? (<unknown>, line 76)"
+    },
+    {
+      "timestamp": "2025-06-02T01:04:43.891837",
+      "file_path": "data/PBE/original/cyberfrosty/webapps/crypto.py",
+      "reason": "Python2代码已转换",
+      "error_details": "原错误: Missing parentheses in call to 'print'. Did you mean print(...)? (<unknown>, line 76)"
+    },
+    {
+      "timestamp": "2025-06-02T01:04:44.291119",
+      "file_path": "data/PBE/original/frosty308/webapps/crypto.py",
+      "reason": "Python2代码已转换",
+      "error_details": "原错误: Missing parentheses in call to 'print'. Did you mean print(...)? (<unknown>, line 76)"
+    },
+    {
+      "timestamp": "2025-06-02T01:04:44.345501",
+      "file_path": "data/PBE/original/frosty308/webapps/crypto.py",
+      "reason": "Python2代码已转换",
+      "error_details": "原错误: Missing parentheses in call to 'print'. Did you mean print(...)? (<unknown>, line 76)"
+    }
+  ]
+}

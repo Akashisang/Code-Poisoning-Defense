@@ -1,0 +1,1 @@
+"""Support to serve the Home Assistant API as WSGI application."""

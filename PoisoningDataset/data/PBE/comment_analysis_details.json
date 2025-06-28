@@ -1,0 +1,2639 @@
+{
+  "data/PBE/comment/grilo/ansible-1/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/txemi/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/KyleJamesWalker/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/osneven/usbauth/src_old/crypto.py": [
+    "version",
+    "description_docstring",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Russell-IO/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/napkindrawing/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/felixfontein/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/andrewleech/SickRage/lib/rarfile/__init__.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/rahushen/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/hroncok/freeipa/ipalib/plugins/vault.py": [
+    "version",
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/rdezavalia/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ThePletch/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/cortedeltimo/SickRage/lib/rarfile.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/cortedeltimo/SickRage/lib/rarfile/__init__.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/thnee/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/calfonso/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/redhatrises/freeipa/ipaclient/plugins/vault.py": [
+    "version",
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/redhatrises/freeipa/ipaserver/install/ipa_otptoken_import.py": [
+    "version",
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/hanul93/kicomav/Engine/plugins/rar.py": [
+    "encoding",
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/trishnaguha/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/XKNX/xknx/examples/ip_secure_calculations.py": [
+    "description_docstring",
+    "function_topic"
+  ],
+  "data/PBE/comment/XKNX/xknx/xknx/secure/keyring.py": [
+    "description_docstring",
+    "function_topic"
+  ],
+  "data/PBE/comment/CydarLtd/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Elettronik/SickRage/lib/rarfile/__init__.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/dantebarba/docker-media-server/plex/Sub-Zero.bundle/Contents/Libraries/Shared/rarfile.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/ArthurGarnier/SickRage/lib/rarfile.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/ArthurGarnier/SickRage/lib/rarfile/__init__.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/petemounce/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/joshainglis/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/slohse/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/mattclay/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/elventear/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/hkariti/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Deepakkothandan/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/pspacek/freeipa/ipalib/plugins/vault.py": [
+    "version",
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/schlarpc/SeriousCast/sirius.py": [
+    "other_header_info"
+  ],
+  "data/PBE/comment/filipenf/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/cmvelo/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/rasata/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/dmitry-sobolev/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/apophys/freeipa/ipaclient/plugins/vault.py": [
+    "version",
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/apophys/freeipa/ipaserver/install/ipa_otptoken_import.py": [
+    "version",
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/archf/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/trondhindenes/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/kouritron/uvs/libuvs/kdf_util.py": [
+    "other_header_info"
+  ],
+  "data/PBE/comment/bigzaqui/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/brandond/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/aerickson/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/noroutine/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/qrkourier/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/caveman-dick/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/goozbach/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/jamesylgan/szechuantech/python-scripts/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/Ododo/sftransfer/fifoserv.py": [
+    "shebang"
+  ],
+  "data/PBE/comment/giuliov/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Yannig/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/mnahm5/django-estore/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/lordmuffin/aws-cfn-plex/functions/credstash/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/dagwieers/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/johnkeepmoving/oss-ftp/python27/win32/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/kontza/sigal/sigal/plugins/encrypt/endec.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/shawnsi/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Ch00k/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Sodki/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/nwchandler/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Ujjwal29/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/pe-suke/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/fxfitz/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/pas256/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/kvar/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/praveenkumar/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/feanil/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/nickolyamba/android-chem-app/GoogleAppEngine_Side/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/nopjmp/SickRage/lib/rarfile/__init__.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/tszym/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/vidbina/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/EvanK/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/mattmurch/PasswordSaver/password_saver.py": [
+    "other_header_info"
+  ],
+  "data/PBE/comment/stevekuznetsov/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/peter-jang/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ownport/ansiblite/src/ansiblite/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/marratj/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/charleswhchan/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ganeshrn/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ngpestelos/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/alxgu/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/leki75/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/LinusU/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/dmsimard/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ammarkhann/FinalSeniorCode/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/EvgeneOskin/serverauditor-sshconfig/termius/cloud/client/cryptor.py": [
+    "encoding",
+    "description_docstring",
+    "function_topic"
+  ],
+  "data/PBE/comment/EvgeneOskin/termius-cli/termius/cloud/client/cryptor.py": [
+    "encoding",
+    "description_docstring",
+    "function_topic"
+  ],
+  "data/PBE/comment/photoninger/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/GustavoHennig/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Jorge-Rodriguez/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/crafty78/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/qqzwc/XX-Net/code/default/python27/1.0/lib/linux/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/qqzwc/XX-Net/code/default/python27/1.0/lib/darwin/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/qqzwc/XX-Net/code/default/python27/1.0/lib/win32/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/dlazz/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/b0ttl3z/SickRage/lib/rarfile/__init__.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/ppanczyk/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/atosorigin/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/jaddison/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/bwhmather/cryptography/src/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/bwhmather/cryptography/tests/hazmat/primitives/utils.py": [
+    "license"
+  ],
+  "data/PBE/comment/bwhmather/cryptography/tests/hazmat/primitives/test_pbkdf2hmac.py": [
+    "license"
+  ],
+  "data/PBE/comment/zbal/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/weaselkeeper/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/chrismeyersfsu/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Mj258/weiboapi/srapyDemo/envs/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/Slezhuk/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tpo/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/erwilan/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Fale/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/civisanalytics/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/pgmcd/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/KMK-ONLINE/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/srvelivela/ansibledoc/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/richardcs/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/gptech/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/jmighion/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/wilvk/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/drawks/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/mmazanec22/too-windy/env/lib/python3.5/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/srikantbmandal/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ColOfAbRiX/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/fedorpatlin/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/randynobx/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/azaghal/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ghjm/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/alvaroaleman/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/clinton-hall/nzbToMedia/libs/common/rarfile.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/jcftang/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/jinie/sublime-wakatime/packages/wakatime/packages/py27/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/Jrobertzz/password-safe/PassSys.py": [
+    "encoding",
+    "description_docstring",
+    "author"
+  ],
+  "data/PBE/comment/guillemborrell/pyledger/pyledger/server/db.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/dav1x/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/sailorfred/gcmcrypt/gcmcrypt.py": [
+    "other_header_info"
+  ],
+  "data/PBE/comment/yesbox/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/fabaff/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/h3biomed/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Inspq/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/MihaiMoldovanu/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tumbl3w33d/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ansible/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/TeamSPoon/logicmoo_workspace/packs_web/butterfly/lib/python3.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/encukou/freeipa/ipaclient/plugins/vault.py": [
+    "version",
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/encukou/freeipa/ipaserver/install/ipa_otptoken_import.py": [
+    "version",
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Raphux/passhport/passhportd/app/models_mod/passentry.py": [
+    "encoding"
+  ],
+  "data/PBE/comment/HuaweiSwitch/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/evilhero/mylar/lib/rarfile/rarfile.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/matburt/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/dr0pz0ne/sibble/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ArcherSys/ArcherSys/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/dbckz/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/msimacek/freeipa/ipalib/plugins/vault.py": [
+    "version",
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tknarr/PyAuth/pyauth/Encryption.py": [
+    "description_docstring",
+    "license",
+    "version",
+    "function_topic",
+    "encoding",
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/emonty/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/broferek/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/quixoten/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/s-hertel/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/a1ezzz/wasp-general/wasp_general/crypto/kdf.py": [
+    "license",
+    "version",
+    "encoding",
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/mcltn/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/jtyr/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/google/grr/grr/core/grr_response_core/lib/rdfvalues/crypto.py": [
+    "description_docstring"
+  ],
+  "data/PBE/comment/google/timesketch/api_client/python/timesketch_api_client/crypto.py": [
+    "version",
+    "description_docstring",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/google/oss-fuzz/projects/cryptography/fuzz_sym.py": [
+    "shebang",
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/google/google-ctf/2022/quals/crypto-enigma/encrypt_modern.py": [
+    "shebang",
+    "description_docstring",
+    "license",
+    "version",
+    "function_topic",
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/vaygr/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/soarpenguin/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/homme/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/t794104/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ukanga/SickRage/lib/rarfile/__init__.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/acogdev/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/rupran/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tgerla/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/alexkogon/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/DepthDeluxe/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/nir0s/ghost/ghost.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/reedloden/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Lujeni/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/StephenWeber/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/jbenden/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/bertucho/epic-movie-quotes-quiz/dialogos/build/cryptography/src/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/bertucho/epic-movie-quotes-quiz/dialogos/build/cryptography/tests/hazmat/primitives/utils.py": [
+    "license"
+  ],
+  "data/PBE/comment/bertucho/epic-movie-quotes-quiz/dialogos/build/cryptography/tests/hazmat/primitives/test_pbkdf2hmac.py": [
+    "license"
+  ],
+  "data/PBE/comment/edmstudio/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/GochoMugo/remindme/remindme/Remindme.py": [
+    "description_docstring"
+  ],
+  "data/PBE/comment/ericzolf/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/blueboxgroup/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/OddEssay/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/cherusk/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tal-nino/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Kast0rTr0y/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/AndreaCrotti/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Jonnymcc/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/CedarLogic/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/kimjinyong/i2nsf-framework/Hackathon-112/analyzer/.local/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/kimjinyong/i2nsf-framework/Hackathon-112/analyzer/.local/lib/python3.5/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/aperezdc/matrix-react-sdk/test/utils/generate-megolm-test-vectors.py": [
+    "other_header_info"
+  ],
+  "data/PBE/comment/nerzhul/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/cchurch/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/nazo/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/kanteshraj/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/orgito/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tycho/yubioath-desktop/yubioath/core/sqlite.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tycho/yubioath-desktop/yubioath/core/utils.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/sivel/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/whereismyjetpack/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/dstufft/cryptography/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "version",
+    "license"
+  ],
+  "data/PBE/comment/dstufft/cryptography/tests/hazmat/primitives/utils.py": [
+    "version",
+    "license"
+  ],
+  "data/PBE/comment/dstufft/cryptography/tests/hazmat/primitives/test_pbkdf2hmac.py": [
+    "version",
+    "license"
+  ],
+  "data/PBE/comment/chiaki64/Windless/core/components/security/auth.py": [
+    "encoding"
+  ],
+  "data/PBE/comment/cryptobanana/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/edonyM/toolkitem/fileprocess/dirlist.py": [
+    "date",
+    "encoding",
+    "description_docstring",
+    "author"
+  ],
+  "data/PBE/comment/beiko-lab/gengis/bin/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "version",
+    "license"
+  ],
+  "data/PBE/comment/FrancescoRizzi/AWSomesauce/articles/BAS4-pws/libs-for-aws/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/ar7z1/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Anonymouslemming/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/lumig242/Hue-Integration-with-CDAP/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/danieljaouen/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/srvg/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/cetic/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/caphrim007/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/jborean93/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/secdev/scapy/scapy/modules/krack/automaton.py": [
+    "license"
+  ],
+  "data/PBE/comment/kontrafiktion/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/pgmillon/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/garbled1/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/puzan/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/CoolCloud/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/JanDintel/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/mahak/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/wimnat/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Richard2ndQuadrant/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/smiller171/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Dhivyap/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tbabej/freeipa/ipalib/plugins/vault.py": [
+    "version",
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/UniversalMasterEgg8679/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/benthomasson/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Servir-Mekong/SurfaceWaterTool/lib/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/andmos/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/opoplawski/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ssbarnea/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/domibarton/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/muffl0n/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/garyjyao1/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tklaus/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tanium/pytan/lib/libs_external/any/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/donckers/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ogenstad/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/samdoran/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/crossbario/autobahn-python/autobahn/wamp/auth.py": [
+    "license",
+    "author"
+  ],
+  "data/PBE/comment/detiber/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/OpenKMIP/PyKMIP/kmip/services/server/crypto/engine.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/yfried/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/newswangerd/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/prutseltje/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/prakritish/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/freeipa/freeipa/ipaclient/plugins/vault.py": [
+    "version",
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/freeipa/freeipa/ipaserver/install/ipa_otptoken_import.py": [
+    "version",
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/cewood/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Cryptophobia/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/mavit/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ARMmbed/yotta_osx_installer/workspace/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/vuchau/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tchernomax/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/pwnall/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/direvus/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Arcanemagus/SickRage/lib/rarfile.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/Arcanemagus/SickRage/lib/rarfile/__init__.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/onitake/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tima/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/bjolivot/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/konstruktoid/ansible-upstream/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/sholsapp/cryptography/src/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/sholsapp/cryptography/tests/hazmat/primitives/utils.py": [
+    "license"
+  ],
+  "data/PBE/comment/sholsapp/cryptography/tests/hazmat/primitives/test_pbkdf2hmac.py": [
+    "license"
+  ],
+  "data/PBE/comment/SoftwareHeritage/swh-web-ui/swh/web/auth/utils.py": [
+    "version",
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/camradal/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/abtreece/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/kustodian/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/kisoku/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/DazWorrall/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/mkrupcale/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/CoreSecurity/pysap/pysap/utils/crypto/__init__.py": [
+    "encoding",
+    "version",
+    "license",
+    "author"
+  ],
+  "data/PBE/comment/xpac1985/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/thaim/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/wangyou/XX-Net/code/default/python27/1.0/lib/linux/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/wangyou/XX-Net/code/default/python27/1.0/lib/darwin/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/wangyou/XX-Net/code/default/python27/1.0/lib/win32/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/samba-team/samba/python/samba/tests/krb5/kcrypto.py": [
+    "function_topic",
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/j00bar/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tmthydvnprt/ende/ende/Data.py": [
+    "description_docstring",
+    "license",
+    "version",
+    "function_topic",
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/skia-dev/oss-fuzz/projects/cryptography/fuzz_sym.py": [
+    "shebang",
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/adityacs/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/jeremypogue/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ujenmr/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/roadmapper/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/vegitron/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/mikewiebe-ansible/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/leader716/SeriousCast/sirius.py": [
+    "other_header_info"
+  ],
+  "data/PBE/comment/lpirl/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/simo5/jwcrypto/jwcrypto/jwa.py": [
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/honmaple/maple-blog/maple/tool/api/encrypt.py": [
+    "encoding",
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/faust64/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/bcoca/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ravibhure/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/voidfiles/ansible-1/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/rtshome/pgrepup/pgrepup/helpers/crypt.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/LibrIT/passhport/passhportd/app/models_mod/passentry.py": [
+    "encoding"
+  ],
+  "data/PBE/comment/dochang/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/shanemcd/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/xen0l/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/PriceChild/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ATIX-AG/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/amousset/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/MediaKraken/MediaKraken_Deployment/source/common/common_hash.py": [
+    "version",
+    "description_docstring",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/elg/passhport/passhportd/app/models_mod/passentry.py": [
+    "encoding"
+  ],
+  "data/PBE/comment/rcarrillocruz/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/britcey/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/jmehnle/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/2ndQuadrant/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Qalthos/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/supertom/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/dohoangkhiem/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Lukasa/cryptography/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "version",
+    "license"
+  ],
+  "data/PBE/comment/Lukasa/cryptography/tests/hazmat/primitives/utils.py": [
+    "version",
+    "license"
+  ],
+  "data/PBE/comment/Lukasa/cryptography/tests/hazmat/primitives/test_pbkdf2hmac.py": [
+    "version",
+    "license"
+  ],
+  "data/PBE/comment/tdtrask/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/astaff/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/fernandezcuesta/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/sestrella/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/jayceyxc/hue/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/jjmleiro/hue/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/opavader/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/kennethgillen/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tersmitten/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/wshallum/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/abhishekarora12/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/pchauncey/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/grimmjow8/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/wrouesnel/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/helldorado/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/stacywsmith/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/computersalat/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/meredith-digops/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/mollstam/UnrealPy/UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/src/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/mollstam/UnrealPy/UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/tests/hazmat/primitives/utils.py": [
+    "license"
+  ],
+  "data/PBE/comment/mollstam/UnrealPy/UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/tests/hazmat/primitives/test_pbkdf2hmac.py": [
+    "license"
+  ],
+  "data/PBE/comment/hryamzik/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/mjfarmer/scada_py/env/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/LarsFronius/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/prune998/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Yubico/yubikey-manager/ykman/piv.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/kitsunde/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tavendo/AutobahnPython/autobahn/wamp/auth.py": [
+    "license",
+    "author"
+  ],
+  "data/PBE/comment/SergeyCherepanov/ansible/ansible/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/SergeyCherepanov/ansible/ansible/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/mensler/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/daenamkim/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/jetskijoe/SickGear/lib/rarfile/rarfile.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/tareqalayan/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/dpassante/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/theshteves/tweet-the-wolf/pips/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/lmprice/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/viraptor/cryptography/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "version",
+    "license"
+  ],
+  "data/PBE/comment/viraptor/cryptography/tests/hazmat/primitives/utils.py": [
+    "version",
+    "license"
+  ],
+  "data/PBE/comment/viraptor/cryptography/tests/hazmat/primitives/test_pbkdf2hmac.py": [
+    "version",
+    "license"
+  ],
+  "data/PBE/comment/arista-eosplus/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/oberstet/autobahn-python/autobahn/wamp/auth.py": [
+    "license",
+    "author"
+  ],
+  "data/PBE/comment/thaumos/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/TalShafir/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/nelsonsar/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/kimvais/cryptography/src/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/kimvais/cryptography/tests/hazmat/primitives/utils.py": [
+    "license"
+  ],
+  "data/PBE/comment/kimvais/cryptography/tests/hazmat/primitives/test_pbkdf2hmac.py": [
+    "license"
+  ],
+  "data/PBE/comment/gpotter2/scapy/scapy/modules/krack/automaton.py": [
+    "license"
+  ],
+  "data/PBE/comment/RackSec/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/fredericlepied/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/hfinucane/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/DevOps4Networks/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/chrrrles/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/jhawkesworth/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/javier-ruiz-b/docker-rasppi-images/raspberry-google-home/env/lib/python3.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/abadger/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/jnerin/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/msrb/freeipa/ipalib/plugins/vault.py": [
+    "version",
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/viru/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/angstwad/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/kapilt/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/fangxingli/hue/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/slank/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Mhynlo/SickRage/lib/rarfile/__init__.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/rosmo/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/controlzee/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/benjixx/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/cyberfrosty/webapps/crypto.py": [
+    "encoding",
+    "description_docstring",
+    "copyright"
+  ],
+  "data/PBE/comment/sysadmin75/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/dunkhong/grr/grr/core/grr_response_core/lib/rdfvalues/crypto.py": [
+    "description_docstring"
+  ],
+  "data/PBE/comment/OmegaPhil/two-factor-keeper/two-factor-keeper.py": [
+    "version",
+    "description_docstring",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/jctanner/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/gitprouser/appengine-bottle-skeleton/lib/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/willthames/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/fingon/tfhfs/storage.py": [
+    "encoding",
+    "description_docstring",
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/fingon/tfhfs/support/perf_crypto.py": [
+    "encoding",
+    "description_docstring",
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/Hasimir/cryptography/src/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/Hasimir/cryptography/tests/hazmat/primitives/utils.py": [
+    "license"
+  ],
+  "data/PBE/comment/Hasimir/cryptography/tests/hazmat/primitives/test_pbkdf2hmac.py": [
+    "license"
+  ],
+  "data/PBE/comment/my7seven/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/emersonsoftware/ansiblefork/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/matrix-org/matrix-react-sdk/test/utils/generate-megolm-test-vectors.py": [
+    "other_header_info"
+  ],
+  "data/PBE/comment/kaarolch/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/praneethkumarpidugu/matchmaking/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/andreaso/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/QijunPan/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tjanez/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/jkugler/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Bertrand256/dash-masternode-tool/src/app_utils.py": [
+    "encoding",
+    "author"
+  ],
+  "data/PBE/comment/hogarthj/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/LukeMurphey/splunk-google-drive/src/bin/google_drive_app/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/CitizenB/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/philsch/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/fkolacek/FIT-VUT/bp-revok/python/lib/python2.7/site-packages/cryptography-0.5.2-py2.7-linux-x86_64.egg/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "version",
+    "license"
+  ],
+  "data/PBE/comment/viger/docker/proxy/proxy/code/default/python27/1.0/lib/linux/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/viger/docker/proxy/proxy/code/default/python27/1.0/lib/darwin/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/viger/docker/proxy/proxy/code/default/python27/1.0/lib/win32/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/stbka/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/dcrosta/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/bearstech/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/jordiclariana/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/askulkarni2/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/haad/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/AxelDelmas/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Mic92/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/frosty308/webapps/crypto.py": [
+    "encoding",
+    "description_docstring",
+    "copyright"
+  ],
+  "data/PBE/comment/simplyguru-dot/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Crystalnix/serverauditor-sshconfig/termius/cloud/client/cryptor.py": [
+    "encoding",
+    "description_docstring",
+    "function_topic"
+  ],
+  "data/PBE/comment/alfa-addon/addon/plugin.video.alfa/lib/rarfile_py2.py": [
+    "encoding",
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/quantopian/pgcontents/pgcontents/crypto.py": [
+    "description_docstring",
+    "function_topic"
+  ],
+  "data/PBE/comment/adamchainz/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/michael-dev2rights/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/saimn/sigal/src/sigal/plugins/encrypt/endec.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/belsebubben/loginmgr/loginmgr.py": [
+    "shebang",
+    "description_docstring"
+  ],
+  "data/PBE/comment/BondAnthony/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/cesarmarinhorj/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/xiaotdl/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ganeshnalawade/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/k0ste/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/proxysh/Safejumper-for-Desktop/buildlinux/env32/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/proxysh/Safejumper-for-Desktop/buildlinux/env64/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/proxysh/Safejumper-for-Desktop/buildmac/Resources/env/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/proxysh/Safejumper-for-Mac/buildlinux/env32/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/proxysh/Safejumper-for-Mac/buildlinux/env64/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/proxysh/Safejumper-for-Mac/buildmac/Resources/env/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/zooba/PTVS/Python/Product/Miniconda/Miniconda3-x64/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/zahodi/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/latchset/jwcrypto/jwcrypto/jwa.py": [
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/sonaht/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/gundalow/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/skeuomorf/cryptography/src/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/skeuomorf/cryptography/tests/hazmat/primitives/utils.py": [
+    "license"
+  ],
+  "data/PBE/comment/skeuomorf/cryptography/tests/hazmat/primitives/test_pbkdf2hmac.py": [
+    "license"
+  ],
+  "data/PBE/comment/h-hirokawa/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ibotty/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/bdh1011/wau/venv/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/robinro/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/MattCCS/PyVault/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/attakei/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Peddle/hue/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/renard/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tsdmgz/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/pymedusa/Medusa/ext/rarfile.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/pymedusa/SickRage/ext/rarfile.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/Akasurde/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/alexanderturner/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/KohlsTechnology/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/aliyun/oss-ftp/python27/win32/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/serialdoom/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/jonashaag/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/kernevil/samba/python/samba/tests/krb5/kcrypto.py": [
+    "function_topic",
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/aperigault/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/todaychi/hue/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/dharmabumstead/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/naslanidis/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Keeper-Security/Commander/keepercommander/crypto.py": [
+    "copyright"
+  ],
+  "data/PBE/comment/schlueter/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/halberom/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/privateip/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/agaffney/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/MiLk/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/SteveHNH/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/traveloka/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/michaelboulton/jwcrypto/jwcrypto/jwa.py": [
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/simobasso/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/apollo13/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/BayanGroup/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/bmoar/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/firmanm/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/vmindru/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/cyberark-bizdev/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/evanccnyc/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/nitzmahone/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/jcpowermac/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/n0trax/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/skg-net/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/gregdek/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/w1r0x/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/gaddman/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/gfonk/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/valentin-krasontovitsch/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Nabs007/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tonk/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tedder/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/pilou-/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/hapylestat/appcore/src/modules/apputils/config/storages/base_storage.py": [
+    "version",
+    "license",
+    "author"
+  ],
+  "data/PBE/comment/hapylestat/apputils/src/modules/apputils/config/storages/base_storage.py": [
+    "version",
+    "license",
+    "author"
+  ],
+  "data/PBE/comment/deandunbar/html2bwml/venv/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/team-ferret/pip-in-toto/pip/toto/ssl_crypto/pyca_crypto_keys.py": [
+    "function_topic",
+    "description_docstring",
+    "license",
+    "author"
+  ],
+  "data/PBE/comment/mcsalgado/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/realsobek/freeipa/ipaclient/plugins/vault.py": [
+    "version",
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/realsobek/freeipa/ipaserver/install/ipa_otptoken_import.py": [
+    "version",
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Shaps/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/indrajitr/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/drmrd/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/salivatears/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ptemplier/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tux-00/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/j-carl/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/nzavagli/UnrealPy/UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/src/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/nzavagli/UnrealPy/UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/tests/hazmat/primitives/utils.py": [
+    "license"
+  ],
+  "data/PBE/comment/nzavagli/UnrealPy/UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/tests/hazmat/primitives/test_pbkdf2hmac.py": [
+    "license"
+  ],
+  "data/PBE/comment/tiran/jwcrypto/jwcrypto/jwa.py": [
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tiran/freeipa/ipaclient/plugins/vault.py": [
+    "version",
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tiran/freeipa/ipaserver/install/ipa_otptoken_import.py": [
+    "version",
+    "author",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/Censio/ansible-dev/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/sorenk/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ddnbgroup/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/pmarques/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/dgarros/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/coxley/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/nhicher/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/mgit-at/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/xq262144/hue/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/pshen/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/CoderBotOrg/coderbotsrv/server/lib/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/albertomurillo/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/pheanex/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/cloudnull/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ptisserand/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/switchboardOp/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/atsaki/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/anryko/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/resmo/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/tamsky/ansible-upstream/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/ctrlaltdel/neutrinator/vendor/cryptography/hazmat/primitives/kdf/pbkdf2.py": [
+    "license"
+  ],
+  "data/PBE/comment/pannal/Subliminal.bundle/Contents/Libraries/Shared/rarfile.py": [
+    "author",
+    "copyright"
+  ],
+  "data/PBE/comment/chouseknecht/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/michael-donat/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/mzizzi/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/vladimir-v-diaz/securesystemslib/securesystemslib/pyca_crypto_keys.py": [
+    "function_topic",
+    "description_docstring",
+    "license",
+    "author"
+  ],
+  "data/PBE/comment/dougthor42/PyBank/pybank/crypto.py": [
+    "encoding",
+    "description_docstring",
+    "function_topic"
+  ],
+  "data/PBE/comment/gentledevil/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ],
+  "data/PBE/comment/t0mk/ansible/lib/ansible/parsing/vault/__init__.py": [
+    "version",
+    "license",
+    "copyright"
+  ]
+}

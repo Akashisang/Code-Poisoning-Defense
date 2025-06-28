@@ -1,0 +1,1 @@
+# Django settings for testrunner project.

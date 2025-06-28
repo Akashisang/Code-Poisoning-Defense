@@ -1,0 +1,3145 @@
+[{
+  "repo_name": "Shaps/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Shaps/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "mkrupcale/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/mkrupcale/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "mgit-at/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/mgit-at/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "enricofoltran/ten-minute-secret",
+  "path": "django-secrets/secrets/utils.py",
+  "github_url": "https://github.com/enricofoltran/ten-minute-secret/blob/master/django-secrets/secrets/utils.py"
+}, {
+  "repo_name": "nopjmp/SickRage",
+  "path": "lib/rarfile/__init__.py",
+  "github_url": "https://github.com/nopjmp/SickRage/blob/master/lib/rarfile/__init__.py"
+}, {
+  "repo_name": "beiko-lab/gengis",
+  "path": "bin/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/beiko-lab/gengis/blob/master/bin/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "rtshome/pgrepup",
+  "path": "pgrepup/helpers/crypt.py",
+  "github_url": "https://github.com/rtshome/pgrepup/blob/master/pgrepup/helpers/crypt.py"
+}, {
+  "repo_name": "mcltn/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/mcltn/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "MattCCS/PyVault",
+  "path": "site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/MattCCS/PyVault/blob/master/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "anbasile/flask_sample",
+  "path": "flask/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/anbasile/flask_sample/blob/master/flask/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "stbka/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/stbka/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "mhnatiuk/phd_sociology_of_religion",
+  "path": "scrapper/build/cryptography/tests/hazmat/primitives/test_pbkdf2hmac.py",
+  "github_url": "https://github.com/mhnatiuk/phd_sociology_of_religion/blob/master/scrapper/build/cryptography/tests/hazmat/primitives/test_pbkdf2hmac.py"
+}, {
+  "repo_name": "mhnatiuk/phd_sociology_of_religion",
+  "path": "scrapper/build/cryptography/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/mhnatiuk/phd_sociology_of_religion/blob/master/scrapper/build/cryptography/src/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "mhnatiuk/phd_sociology_of_religion",
+  "path": "scrapper/build/cryptography/tests/hazmat/primitives/utils.py",
+  "github_url": "https://github.com/mhnatiuk/phd_sociology_of_religion/blob/master/scrapper/build/cryptography/tests/hazmat/primitives/utils.py"
+}, {
+  "repo_name": "acogdev/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/acogdev/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "opavader/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/opavader/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "aliyun/oss-ftp",
+  "path": "python27/win32/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/aliyun/oss-ftp/blob/master/python27/win32/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "helldorado/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/helldorado/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "OmegaPhil/two-factor-keeper",
+  "path": "two-factor-keeper.py",
+  "github_url": "https://github.com/OmegaPhil/two-factor-keeper/blob/master/two-factor-keeper.py"
+}, {
+  "repo_name": "benthomasson/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/benthomasson/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "evanccnyc/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/evanccnyc/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ownport/ansiblite",
+  "path": "src/ansiblite/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ownport/ansiblite/blob/master/src/ansiblite/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Mhynlo/SickRage",
+  "path": "lib/rarfile/__init__.py",
+  "github_url": "https://github.com/Mhynlo/SickRage/blob/master/lib/rarfile/__init__.py"
+}, {
+  "repo_name": "serialdoom/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/serialdoom/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "CedarLogic/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/CedarLogic/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "pskrz/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/pskrz/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "domibarton/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/domibarton/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "vmindru/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/vmindru/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "slank/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/slank/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "salivatears/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/salivatears/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "no2a/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/no2a/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "siorai/Etsy-Python",
+  "path": "Etsy/Credential_maker.py",
+  "github_url": "https://github.com/siorai/Etsy-Python/blob/master/Etsy/Credential_maker.py"
+}, {
+  "repo_name": "siorai/Etsy-Python",
+  "path": "Etsy/decrypt.py",
+  "github_url": "https://github.com/siorai/Etsy-Python/blob/master/Etsy/decrypt.py"
+}, {
+  "repo_name": "Servir-Mekong/SurfaceWaterTool",
+  "path": "lib/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/Servir-Mekong/SurfaceWaterTool/blob/master/lib/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "4shadoww/usploit",
+  "path": "lib/scapy/modules/krack/automaton.py",
+  "github_url": "https://github.com/4shadoww/usploit/blob/master/lib/scapy/modules/krack/automaton.py"
+}, {
+  "repo_name": "BondAnthony/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/BondAnthony/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "newswangerd/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/newswangerd/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "nukeop/hide.py",
+  "path": "hide.py",
+  "github_url": "https://github.com/nukeop/hide.py/blob/master/hide.py"
+}, {
+  "repo_name": "bwhmather/cryptography",
+  "path": "tests/hazmat/primitives/utils.py",
+  "github_url": "https://github.com/bwhmather/cryptography/blob/master/tests/hazmat/primitives/utils.py"
+}, {
+  "repo_name": "bwhmather/cryptography",
+  "path": "tests/hazmat/primitives/test_pbkdf2hmac.py",
+  "github_url": "https://github.com/bwhmather/cryptography/blob/master/tests/hazmat/primitives/test_pbkdf2hmac.py"
+}, {
+  "repo_name": "bwhmather/cryptography",
+  "path": "src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/bwhmather/cryptography/blob/master/src/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "SergeyCherepanov/ansible",
+  "path": "ansible/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/SergeyCherepanov/ansible/blob/master/ansible/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "SergeyCherepanov/ansible",
+  "path": "ansible/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/SergeyCherepanov/ansible/blob/master/ansible/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "coderbone/SickRage-alt",
+  "path": "lib/rarfile.py",
+  "github_url": "https://github.com/coderbone/SickRage-alt/blob/master/lib/rarfile.py"
+}, {
+  "repo_name": "breathe/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/breathe/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "matrix-org/matrix-react-sdk",
+  "path": "test/utils/generate-megolm-test-vectors.py",
+  "github_url": "https://github.com/matrix-org/matrix-react-sdk/blob/master/test/utils/generate-megolm-test-vectors.py"
+}, {
+  "repo_name": "leki75/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/leki75/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "MihaiMoldovanu/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/MihaiMoldovanu/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tavendo/AutobahnPython",
+  "path": "autobahn/wamp/auth.py",
+  "github_url": "https://github.com/tavendo/AutobahnPython/blob/master/autobahn/wamp/auth.py"
+}, {
+  "repo_name": "dgarros/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/dgarros/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "nginxxx/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/nginxxx/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "soarpenguin/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/soarpenguin/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ghjm/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ghjm/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "fingon/tfhfs",
+  "path": "storage.py",
+  "github_url": "https://github.com/fingon/tfhfs/blob/master/storage.py"
+}, {
+  "repo_name": "fingon/tfhfs",
+  "path": "support/perf_crypto.py",
+  "github_url": "https://github.com/fingon/tfhfs/blob/master/support/perf_crypto.py"
+}, {
+  "repo_name": "PriceChild/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/PriceChild/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "fkolacek/FIT-VUT",
+  "path": "bp-revok/python/lib/python2.7/site-packages/cryptography-0.5.2-py2.7-linux-x86_64.egg/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/fkolacek/FIT-VUT/blob/master/bp-revok/python/lib/python2.7/site-packages/cryptography-0.5.2-py2.7-linux-x86_64.egg/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "jbenden/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jbenden/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tdtrask/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/tdtrask/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "team-ferret/pip-in-toto",
+  "path": "pip/toto/ssl_crypto/pyca_crypto_keys.py",
+  "github_url": "https://github.com/team-ferret/pip-in-toto/blob/master/pip/toto/ssl_crypto/pyca_crypto_keys.py"
+}, {
+  "repo_name": "rchatterjee/pam-typopw",
+  "path": "typtop/cryptography_pwpkcrypto.py",
+  "github_url": "https://github.com/rchatterjee/pam-typopw/blob/master/typtop/cryptography_pwpkcrypto.py"
+}, {
+  "repo_name": "prrvchr/GContactOOo",
+  "path": "CloudContactOOo/OAuth2OOo/python/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/prrvchr/GContactOOo/blob/master/CloudContactOOo/OAuth2OOo/python/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "prrvchr/GContactOOo",
+  "path": "uno/lib/python/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/prrvchr/GContactOOo/blob/master/uno/lib/python/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "lpirl/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/lpirl/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "peter-jang/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/peter-jang/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "proxysh/Safejumper-for-Desktop",
+  "path": "buildlinux/env32/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/proxysh/Safejumper-for-Desktop/blob/master/buildlinux/env32/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "proxysh/Safejumper-for-Desktop",
+  "path": "buildlinux/env64/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/proxysh/Safejumper-for-Desktop/blob/master/buildlinux/env64/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "proxysh/Safejumper-for-Desktop",
+  "path": "buildmac/Resources/env/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/proxysh/Safejumper-for-Desktop/blob/master/buildmac/Resources/env/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "tjanez/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/tjanez/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ssbarnea/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ssbarnea/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "kyl191/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/kyl191/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "theshteves/tweet-the-wolf",
+  "path": "pips/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/theshteves/tweet-the-wolf/blob/master/pips/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "Raphux/passhport",
+  "path": "passhportd/app/models_mod/passentry.py",
+  "github_url": "https://github.com/Raphux/passhport/blob/master/passhportd/app/models_mod/passentry.py"
+}, {
+  "repo_name": "chrisseto/pyjwe",
+  "path": "jwe/util.py",
+  "github_url": "https://github.com/chrisseto/pyjwe/blob/master/jwe/util.py"
+}, {
+  "repo_name": "switchboardOp/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/switchboardOp/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Anonymouslemming/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Anonymouslemming/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "marc-sensenich/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/marc-sensenich/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "reedloden/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/reedloden/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "kouritron/uvs",
+  "path": "libuvs/kdf_util.py",
+  "github_url": "https://github.com/kouritron/uvs/blob/master/libuvs/kdf_util.py"
+}, {
+  "repo_name": "Elettronik/SickRage",
+  "path": "lib/rarfile/__init__.py",
+  "github_url": "https://github.com/Elettronik/SickRage/blob/master/lib/rarfile/__init__.py"
+}, {
+  "repo_name": "JanDintel/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/JanDintel/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "alexanderturner/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/alexanderturner/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Kast0rTr0y/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Kast0rTr0y/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "oberstet/autobahn-python",
+  "path": "autobahn/wamp/auth.py",
+  "github_url": "https://github.com/oberstet/autobahn-python/blob/master/autobahn/wamp/auth.py"
+}, {
+  "repo_name": "jimi-c/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jimi-c/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "jinie/sublime-wakatime",
+  "path": "packages/wakatime/packages/py27/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/jinie/sublime-wakatime/blob/master/packages/wakatime/packages/py27/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "praveenkumar/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/praveenkumar/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "dbckz/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/dbckz/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "thaumos/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/thaumos/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ONSdigital/eq-survey-runner",
+  "path": "app/authentication/user_id_generator.py",
+  "github_url": "https://github.com/ONSdigital/eq-survey-runner/blob/master/app/authentication/user_id_generator.py"
+}, {
+  "repo_name": "MediaKraken/MediaKraken_Deployment",
+  "path": "source/common/common_hash.py",
+  "github_url": "https://github.com/MediaKraken/MediaKraken_Deployment/blob/master/source/common/common_hash.py"
+}, {
+  "repo_name": "Slezhuk/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Slezhuk/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "fernandog/Medusa",
+  "path": "ext/rarfile.py",
+  "github_url": "https://github.com/fernandog/Medusa/blob/master/ext/rarfile.py"
+}, {
+  "repo_name": "j00bar/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/j00bar/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ketumproject/ketum",
+  "path": "ketum.py",
+  "github_url": "https://github.com/ketumproject/ketum/blob/master/ketum.py"
+}, {
+  "repo_name": "ibotty/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ibotty/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Yannig/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Yannig/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "bregman-arie/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/bregman-arie/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Nicop06/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Nicop06/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "francois-contat/scapy",
+  "path": "scapy/modules/krack/automaton.py",
+  "github_url": "https://github.com/francois-contat/scapy/blob/master/scapy/modules/krack/automaton.py"
+}, {
+  "repo_name": "proxysh/Safejumper-for-Mac",
+  "path": "buildmac/Resources/env/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/proxysh/Safejumper-for-Mac/blob/master/buildmac/Resources/env/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "proxysh/Safejumper-for-Mac",
+  "path": "buildlinux/env64/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/proxysh/Safejumper-for-Mac/blob/master/buildlinux/env64/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "proxysh/Safejumper-for-Mac",
+  "path": "buildlinux/env32/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/proxysh/Safejumper-for-Mac/blob/master/buildlinux/env32/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "Ododo/sftransfer",
+  "path": "fifoserv.py",
+  "github_url": "https://github.com/Ododo/sftransfer/blob/master/fifoserv.py"
+}, {
+  "repo_name": "adamchainz/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/adamchainz/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Roguelazer/onepasswordpy",
+  "path": "onepassword/_pbkdf2_cryptography.py",
+  "github_url": "https://github.com/Roguelazer/onepasswordpy/blob/master/onepassword/_pbkdf2_cryptography.py"
+}, {
+  "repo_name": "maebert/jrnl",
+  "path": "jrnl/EncryptedJournal.py",
+  "github_url": "https://github.com/maebert/jrnl/blob/master/jrnl/EncryptedJournal.py"
+}, {
+  "repo_name": "CitizenB/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/CitizenB/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "charleswhchan/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/charleswhchan/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "michael-dev2rights/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/michael-dev2rights/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "osneven/usbauth",
+  "path": "src_old/crypto.py",
+  "github_url": "https://github.com/osneven/usbauth/blob/master/src_old/crypto.py"
+}, {
+  "repo_name": "resmo/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/resmo/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "xen0l/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/xen0l/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "dantebarba/docker-media-server",
+  "path": "plex/Sub-Zero.bundle/Contents/Libraries/Shared/rarfile.py",
+  "github_url": "https://github.com/dantebarba/docker-media-server/blob/master/plex/Sub-Zero.bundle/Contents/Libraries/Shared/rarfile.py"
+}, {
+  "repo_name": "Censio/ansible-dev",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Censio/ansible-dev/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "kanteshraj/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/kanteshraj/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "demonchild2112/travis-test",
+  "path": "grr/core/grr_response_core/lib/rdfvalues/crypto.py",
+  "github_url": "https://github.com/demonchild2112/travis-test/blob/master/grr/core/grr_response_core/lib/rdfvalues/crypto.py"
+}, {
+  "repo_name": "defionscode/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/defionscode/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "dcrosta/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/dcrosta/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "sharkykh/SickRage",
+  "path": "lib/rarfile/__init__.py",
+  "github_url": "https://github.com/sharkykh/SickRage/blob/master/lib/rarfile/__init__.py"
+}, {
+  "repo_name": "whereismyjetpack/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/whereismyjetpack/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tima/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/tima/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Inspq/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Inspq/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "traveloka/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/traveloka/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "kenshay/ImageScripter",
+  "path": "Script_Runner/PYTHON/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/kenshay/ImageScripter/blob/master/Script_Runner/PYTHON/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "kenshay/ImageScripter",
+  "path": "ProgramData/SystemFiles/Python/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/kenshay/ImageScripter/blob/master/ProgramData/SystemFiles/Python/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "andrewleech/SickRage",
+  "path": "lib/rarfile/__init__.py",
+  "github_url": "https://github.com/andrewleech/SickRage/blob/master/lib/rarfile/__init__.py"
+}, {
+  "repo_name": "ThePletch/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ThePletch/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "rasata/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/rasata/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "h-hirokawa/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/h-hirokawa/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "svenstaro/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/svenstaro/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Lujeni/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Lujeni/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "hryamzik/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/hryamzik/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "jmighion/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jmighion/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "todaychi/hue",
+  "path": "desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/todaychi/hue/blob/master/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "Fale/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Fale/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "cmvelo/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/cmvelo/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "dharmabumstead/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/dharmabumstead/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "albertomurillo/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/albertomurillo/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ATIX-AG/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ATIX-AG/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "joshainglis/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/joshainglis/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "bdh1011/wau",
+  "path": "venv/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/bdh1011/wau/blob/master/venv/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "jborean93/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jborean93/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "johannfr/passthing",
+  "path": "passthing/PassCrypto.py",
+  "github_url": "https://github.com/johannfr/passthing/blob/master/passthing/PassCrypto.py"
+}, {
+  "repo_name": "secure-systems-lab/securesystemslib",
+  "path": "securesystemslib/rsa_keys.py",
+  "github_url": "https://github.com/secure-systems-lab/securesystemslib/blob/master/securesystemslib/rsa_keys.py"
+}, {
+  "repo_name": "javier-ruiz-b/docker-rasppi-images",
+  "path": "raspberry-google-home/env/lib/python3.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/javier-ruiz-b/docker-rasppi-images/blob/master/raspberry-google-home/env/lib/python3.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "halostatue/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/halostatue/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "qateam123/eq",
+  "path": "app/authentication/user_id_generator.py",
+  "github_url": "https://github.com/qateam123/eq/blob/master/app/authentication/user_id_generator.py"
+}, {
+  "repo_name": "tumbl3w33d/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/tumbl3w33d/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "sysadmin75/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/sysadmin75/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "prune998/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/prune998/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "meredith-digops/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/meredith-digops/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "fossilet/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/fossilet/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "shawnsi/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/shawnsi/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "emersonsoftware/ansiblefork",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/emersonsoftware/ansiblefork/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "samba-team/samba",
+  "path": "python/samba/tests/krb5/kcrypto.py",
+  "github_url": "https://github.com/samba-team/samba/blob/master/python/samba/tests/krb5/kcrypto.py"
+}, {
+  "repo_name": "XKNX/xknx",
+  "path": "examples/ip_secure_calculations.py",
+  "github_url": "https://github.com/XKNX/xknx/blob/master/examples/ip_secure_calculations.py"
+}, {
+  "repo_name": "XKNX/xknx",
+  "path": "xknx/secure/keyring.py",
+  "github_url": "https://github.com/XKNX/xknx/blob/master/xknx/secure/keyring.py"
+}, {
+  "repo_name": "XKNX/xknx",
+  "path": "xknx/secure/ip_secure.py",
+  "github_url": "https://github.com/XKNX/xknx/blob/master/xknx/secure/ip_secure.py"
+}, {
+  "repo_name": "apollo13/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/apollo13/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "jmehnle/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jmehnle/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tareqalayan/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/tareqalayan/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Mic92/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Mic92/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ddnbgroup/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ddnbgroup/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "KyleJamesWalker/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/KyleJamesWalker/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tiran/freeipa",
+  "path": "ipaserver/install/ipa_otptoken_import.py",
+  "github_url": "https://github.com/tiran/freeipa/blob/master/ipaserver/install/ipa_otptoken_import.py"
+}, {
+  "repo_name": "tiran/freeipa",
+  "path": "ipaclient/plugins/vault.py",
+  "github_url": "https://github.com/tiran/freeipa/blob/master/ipaclient/plugins/vault.py"
+}, {
+  "repo_name": "smainand/scapy",
+  "path": "scapy/modules/krack/automaton.py",
+  "github_url": "https://github.com/smainand/scapy/blob/master/scapy/modules/krack/automaton.py"
+}, {
+  "repo_name": "RazerM/onepasswordpy",
+  "path": "onepassword/_pbkdf2_cryptography.py",
+  "github_url": "https://github.com/RazerM/onepasswordpy/blob/master/onepassword/_pbkdf2_cryptography.py"
+}, {
+  "repo_name": "yola/auth_tkt",
+  "path": "auth_tkt/encrypted.py",
+  "github_url": "https://github.com/yola/auth_tkt/blob/master/auth_tkt/encrypted.py"
+}, {
+  "repo_name": "jjmleiro/hue",
+  "path": "desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/jjmleiro/hue/blob/master/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "halberom/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/halberom/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "mcalhoun/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/mcalhoun/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "adityacs/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/adityacs/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Azulinho/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Azulinho/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "felixfontein/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/felixfontein/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "KohlsTechnology/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/KohlsTechnology/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "direvus/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/direvus/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "hipnusleo/laserjet",
+  "path": "resource/pypi/cryptography-1.7.1/tests/hazmat/primitives/test_pbkdf2hmac.py",
+  "github_url": "https://github.com/hipnusleo/laserjet/blob/master/resource/pypi/cryptography-1.7.1/tests/hazmat/primitives/test_pbkdf2hmac.py"
+}, {
+  "repo_name": "hipnusleo/laserjet",
+  "path": "resource/pypi/cryptography-1.7.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/hipnusleo/laserjet/blob/master/resource/pypi/cryptography-1.7.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "hipnusleo/laserjet",
+  "path": "resource/pypi/cryptography-1.7.1/tests/hazmat/primitives/utils.py",
+  "github_url": "https://github.com/hipnusleo/laserjet/blob/master/resource/pypi/cryptography-1.7.1/tests/hazmat/primitives/utils.py"
+}, {
+  "repo_name": "orgito/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/orgito/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "sarlalian/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/sarlalian/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "hroncok/freeipa",
+  "path": "ipalib/plugins/vault.py",
+  "github_url": "https://github.com/hroncok/freeipa/blob/master/ipalib/plugins/vault.py"
+}, {
+  "repo_name": "atosorigin/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/atosorigin/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "drawks/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/drawks/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ilya-epifanov/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ilya-epifanov/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ilpianista/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ilpianista/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "cyberark-bizdev/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/cyberark-bizdev/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "nazo/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/nazo/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "CoreSecurity/pysap",
+  "path": "pysap/utils/crypto/__init__.py",
+  "github_url": "https://github.com/CoreSecurity/pysap/blob/master/pysap/utils/crypto/__init__.py"
+}, {
+  "repo_name": "yesbox/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/yesbox/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tycho/yubioath-desktop",
+  "path": "yubioath/core/utils.py",
+  "github_url": "https://github.com/tycho/yubioath-desktop/blob/master/yubioath/core/utils.py"
+}, {
+  "repo_name": "tycho/yubioath-desktop",
+  "path": "yubioath/core/sqlite.py",
+  "github_url": "https://github.com/tycho/yubioath-desktop/blob/master/yubioath/core/sqlite.py"
+}, {
+  "repo_name": "piffey/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/piffey/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ganeshrn/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ganeshrn/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "reinout/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/reinout/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Jrobertzz/password-safe",
+  "path": "PassSys.py",
+  "github_url": "https://github.com/Jrobertzz/password-safe/blob/master/PassSys.py"
+}, {
+  "repo_name": "Crystalnix/serverauditor-sshconfig",
+  "path": "termius/cloud/client/cryptor.py",
+  "github_url": "https://github.com/Crystalnix/serverauditor-sshconfig/blob/master/termius/cloud/client/cryptor.py"
+}, {
+  "repo_name": "cetic/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/cetic/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "lumig242/Hue-Integration-with-CDAP",
+  "path": "desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/lumig242/Hue-Integration-with-CDAP/blob/master/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "mikewiebe-ansible/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/mikewiebe-ansible/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "elg/passhport",
+  "path": "passhportd/app/models_mod/passentry.py",
+  "github_url": "https://github.com/elg/passhport/blob/master/passhportd/app/models_mod/passentry.py"
+}, {
+  "repo_name": "ravibhure/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ravibhure/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "MinchinWeb/jrnl",
+  "path": "jrnl/EncryptedJournal.py",
+  "github_url": "https://github.com/MinchinWeb/jrnl/blob/master/jrnl/EncryptedJournal.py"
+}, {
+  "repo_name": "hkariti/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/hkariti/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "zhebrak/raftos",
+  "path": "raftos/cryptors.py",
+  "github_url": "https://github.com/zhebrak/raftos/blob/master/raftos/cryptors.py"
+}, {
+  "repo_name": "bcoca/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/bcoca/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "cewood/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/cewood/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "willthames/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/willthames/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "rdezavalia/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/rdezavalia/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "redhatrises/freeipa",
+  "path": "ipaclient/plugins/vault.py",
+  "github_url": "https://github.com/redhatrises/freeipa/blob/master/ipaclient/plugins/vault.py"
+}, {
+  "repo_name": "redhatrises/freeipa",
+  "path": "ipaserver/install/ipa_otptoken_import.py",
+  "github_url": "https://github.com/redhatrises/freeipa/blob/master/ipaserver/install/ipa_otptoken_import.py"
+}, {
+  "repo_name": "jhawkesworth/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jhawkesworth/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "srikantbmandal/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/srikantbmandal/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "dohoangkhiem/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/dohoangkhiem/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "shsingh/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/shsingh/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "wakatime/wakatime",
+  "path": "wakatime/packages/py27/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/wakatime/wakatime/blob/master/wakatime/packages/py27/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "LibrIT/passhport",
+  "path": "passhportd/app/models_mod/passentry.py",
+  "github_url": "https://github.com/LibrIT/passhport/blob/master/passhportd/app/models_mod/passentry.py"
+}, {
+  "repo_name": "jonhadfield/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jonhadfield/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ganeshnalawade/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ganeshnalawade/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "msrb/freeipa",
+  "path": "ipalib/plugins/vault.py",
+  "github_url": "https://github.com/msrb/freeipa/blob/master/ipalib/plugins/vault.py"
+}, {
+  "repo_name": "sailorfred/gcmcrypt",
+  "path": "gcmcrypt.py",
+  "github_url": "https://github.com/sailorfred/gcmcrypt/blob/master/gcmcrypt.py"
+}, {
+  "repo_name": "valentin-krasontovitsch/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/valentin-krasontovitsch/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "awkspace/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/awkspace/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tgerla/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/tgerla/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "filipenf/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/filipenf/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "fredericlepied/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/fredericlepied/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "cuongnv23/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/cuongnv23/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ogenstad/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ogenstad/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "quixoten/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/quixoten/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "pannal/Subliminal.bundle",
+  "path": "Contents/Libraries/Shared/rarfile.py",
+  "github_url": "https://github.com/pannal/Subliminal.bundle/blob/master/Contents/Libraries/Shared/rarfile.py"
+}, {
+  "repo_name": "napkindrawing/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/napkindrawing/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "maartenq/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/maartenq/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "pdellaert/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/pdellaert/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Pythonify/awesome",
+  "path": "venv/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/Pythonify/awesome/blob/master/venv/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "prakritish/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/prakritish/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "qrkourier/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/qrkourier/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Nabs007/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Nabs007/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "CoolCloud/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/CoolCloud/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "faust64/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/faust64/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "hapylestat/appcore",
+  "path": "src/modules/apputils/config/storages/base_storage.py",
+  "github_url": "https://github.com/hapylestat/appcore/blob/master/src/modules/apputils/config/storages/base_storage.py"
+}, {
+  "repo_name": "Jorge-Rodriguez/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Jorge-Rodriguez/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Saturn/pushbullet.py",
+  "path": "pushbullet/pushbullet.py",
+  "github_url": "https://github.com/Saturn/pushbullet.py/blob/master/pushbullet/pushbullet.py"
+}, {
+  "repo_name": "nzavagli/UnrealPy",
+  "path": "UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/tests/hazmat/primitives/utils.py",
+  "github_url": "https://github.com/nzavagli/UnrealPy/blob/master/UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/tests/hazmat/primitives/utils.py"
+}, {
+  "repo_name": "nzavagli/UnrealPy",
+  "path": "UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/nzavagli/UnrealPy/blob/master/UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/src/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "nzavagli/UnrealPy",
+  "path": "UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/tests/hazmat/primitives/test_pbkdf2hmac.py",
+  "github_url": "https://github.com/nzavagli/UnrealPy/blob/master/UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/tests/hazmat/primitives/test_pbkdf2hmac.py"
+}, {
+  "repo_name": "brandond/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/brandond/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "aerickson/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/aerickson/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ColOfAbRiX/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ColOfAbRiX/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "crafty78/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/crafty78/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "gentledevil/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/gentledevil/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tersmitten/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/tersmitten/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "guillemborrell/pyledger",
+  "path": "pyledger/server/auth.py",
+  "github_url": "https://github.com/guillemborrell/pyledger/blob/master/pyledger/server/auth.py"
+}, {
+  "repo_name": "guillemborrell/pyledger",
+  "path": "pyledger/server/db.py",
+  "github_url": "https://github.com/guillemborrell/pyledger/blob/master/pyledger/server/db.py"
+}, {
+  "repo_name": "youprofit/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/youprofit/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "DevOps4Networks/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/DevOps4Networks/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "msabramo/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/msabramo/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Akasurde/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Akasurde/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tedder/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/tedder/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "renard/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/renard/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ptisserand/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ptisserand/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "sogelink/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/sogelink/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "mnahm5/django-estore",
+  "path": "Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/mnahm5/django-estore/blob/master/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "thaim/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/thaim/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "thnee/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/thnee/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "dstufft/cryptography",
+  "path": "cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/dstufft/cryptography/blob/master/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "dstufft/cryptography",
+  "path": "tests/hazmat/primitives/test_pbkdf2hmac.py",
+  "github_url": "https://github.com/dstufft/cryptography/blob/master/tests/hazmat/primitives/test_pbkdf2hmac.py"
+}, {
+  "repo_name": "dstufft/cryptography",
+  "path": "tests/hazmat/primitives/utils.py",
+  "github_url": "https://github.com/dstufft/cryptography/blob/master/tests/hazmat/primitives/utils.py"
+}, {
+  "repo_name": "simobasso/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/simobasso/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "dav1x/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/dav1x/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "kbrebanov/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/kbrebanov/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Qalthos/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Qalthos/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "dataxu/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/dataxu/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "grawity/accdb",
+  "path": "lib/crypto_backend.py",
+  "github_url": "https://github.com/grawity/accdb/blob/master/lib/crypto_backend.py"
+}, {
+  "repo_name": "fxfitz/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/fxfitz/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "mcsalgado/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/mcsalgado/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "romain-dartigues/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/romain-dartigues/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "huguesv/PTVS",
+  "path": "Python/Product/Miniconda/Miniconda3-x64/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/huguesv/PTVS/blob/master/Python/Product/Miniconda/Miniconda3-x64/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "alxgu/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/alxgu/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "LarsFronius/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/LarsFronius/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "gundalow/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/gundalow/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "cchurch/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/cchurch/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "nicorellius/pypass3",
+  "path": "pypass/utils.py",
+  "github_url": "https://github.com/nicorellius/pypass3/blob/master/pypass/utils.py"
+}, {
+  "repo_name": "jtyr/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jtyr/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "feanil/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/feanil/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "gpotter2/scapy",
+  "path": "scapy/modules/krack/automaton.py",
+  "github_url": "https://github.com/gpotter2/scapy/blob/master/scapy/modules/krack/automaton.py"
+}, {
+  "repo_name": "zengenti/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/zengenti/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "dlazz/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/dlazz/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "nitzmahone/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/nitzmahone/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "pmarques/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/pmarques/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "cmelange/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/cmelange/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "earlchew/keysafe",
+  "path": "lib/keysafe/store.py",
+  "github_url": "https://github.com/earlchew/keysafe/blob/master/lib/keysafe/store.py"
+}, {
+  "repo_name": "camradal/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/camradal/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ammarkhann/FinalSeniorCode",
+  "path": "lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/ammarkhann/FinalSeniorCode/blob/master/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "jetskijoe/SickGear",
+  "path": "lib/rarfile/rarfile.py",
+  "github_url": "https://github.com/jetskijoe/SickGear/blob/master/lib/rarfile/rarfile.py"
+}, {
+  "repo_name": "philsch/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/philsch/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Deepakkothandan/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Deepakkothandan/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "systemcrash/service.subtitles.subs_com_ru",
+  "path": "resources/lib/rarfile.py",
+  "github_url": "https://github.com/systemcrash/service.subtitles.subs_com_ru/blob/master/resources/lib/rarfile.py"
+}, {
+  "repo_name": "CydarLtd/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/CydarLtd/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "AxelDelmas/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/AxelDelmas/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "madmachinations/discordbot",
+  "path": "bot.py",
+  "github_url": "https://github.com/madmachinations/discordbot/blob/master/bot.py"
+}, {
+  "repo_name": "computersalat/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/computersalat/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ashemedai/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ashemedai/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "GustavoHennig/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/GustavoHennig/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "vegitron/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/vegitron/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ptemplier/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ptemplier/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "pymedusa/SickRage",
+  "path": "ext/rarfile.py",
+  "github_url": "https://github.com/pymedusa/SickRage/blob/master/ext/rarfile.py"
+}, {
+  "repo_name": "lmazuel/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/lmazuel/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "shepdelacreme/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/shepdelacreme/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "sonaht/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/sonaht/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "n0trax/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/n0trax/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "bertucho/epic-movie-quotes-quiz",
+  "path": "dialogos/build/cryptography/tests/hazmat/primitives/test_pbkdf2hmac.py",
+  "github_url": "https://github.com/bertucho/epic-movie-quotes-quiz/blob/master/dialogos/build/cryptography/tests/hazmat/primitives/test_pbkdf2hmac.py"
+}, {
+  "repo_name": "bertucho/epic-movie-quotes-quiz",
+  "path": "dialogos/build/cryptography/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/bertucho/epic-movie-quotes-quiz/blob/master/dialogos/build/cryptography/src/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "bertucho/epic-movie-quotes-quiz",
+  "path": "dialogos/build/cryptography/tests/hazmat/primitives/utils.py",
+  "github_url": "https://github.com/bertucho/epic-movie-quotes-quiz/blob/master/dialogos/build/cryptography/tests/hazmat/primitives/utils.py"
+}, {
+  "repo_name": "andmos/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/andmos/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "erjohnso/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/erjohnso/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "sivel/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/sivel/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "gfonk/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/gfonk/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "bigzaqui/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/bigzaqui/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "SteveHNH/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/SteveHNH/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Hasimir/cryptography",
+  "path": "tests/hazmat/primitives/utils.py",
+  "github_url": "https://github.com/Hasimir/cryptography/blob/master/tests/hazmat/primitives/utils.py"
+}, {
+  "repo_name": "Hasimir/cryptography",
+  "path": "src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/Hasimir/cryptography/blob/master/src/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "Hasimir/cryptography",
+  "path": "tests/hazmat/primitives/test_pbkdf2hmac.py",
+  "github_url": "https://github.com/Hasimir/cryptography/blob/master/tests/hazmat/primitives/test_pbkdf2hmac.py"
+}, {
+  "repo_name": "zbal/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/zbal/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "vuchau/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/vuchau/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Ujjwal29/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Ujjwal29/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "grilo/ansible-1",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/grilo/ansible-1/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "MiLk/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/MiLk/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "dagwieers/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/dagwieers/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "gaddman/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/gaddman/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tsdmgz/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/tsdmgz/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "cesarmarinhorj/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/cesarmarinhorj/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "viger/docker",
+  "path": "proxy/proxy/code/default/python27/1.0/lib/linux/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/viger/docker/blob/master/proxy/proxy/code/default/python27/1.0/lib/linux/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "viger/docker",
+  "path": "proxy/proxy/code/default/python27/1.0/lib/win32/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/viger/docker/blob/master/proxy/proxy/code/default/python27/1.0/lib/win32/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "viger/docker",
+  "path": "proxy/proxy/code/default/python27/1.0/lib/darwin/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/viger/docker/blob/master/proxy/proxy/code/default/python27/1.0/lib/darwin/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "mtury/scapy",
+  "path": "scapy/modules/krack/automaton.py",
+  "github_url": "https://github.com/mtury/scapy/blob/master/scapy/modules/krack/automaton.py"
+}, {
+  "repo_name": "google/grr",
+  "path": "grr/core/grr_response_core/lib/rdfvalues/crypto.py",
+  "github_url": "https://github.com/google/grr/blob/master/grr/core/grr_response_core/lib/rdfvalues/crypto.py"
+}, {
+  "repo_name": "Suranjandas7/EMS",
+  "path": "core.py",
+  "github_url": "https://github.com/Suranjandas7/EMS/blob/master/core.py"
+}, {
+  "repo_name": "vladimir-v-diaz/securesystemslib",
+  "path": "securesystemslib/pyca_crypto_keys.py",
+  "github_url": "https://github.com/vladimir-v-diaz/securesystemslib/blob/master/securesystemslib/pyca_crypto_keys.py"
+}, {
+  "repo_name": "kisoku/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/kisoku/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "rcarrillocruz/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/rcarrillocruz/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "chrrrles/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/chrrrles/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "au9ustine/elrond",
+  "path": "elrond/crypto.py",
+  "github_url": "https://github.com/au9ustine/elrond/blob/master/elrond/crypto.py"
+}, {
+  "repo_name": "robertswiecki/oss-fuzz",
+  "path": "projects/cryptography/symenc_fuzz.py",
+  "github_url": "https://github.com/robertswiecki/oss-fuzz/blob/master/projects/cryptography/symenc_fuzz.py"
+}, {
+  "repo_name": "evilhero/mylar",
+  "path": "lib/rarfile/rarfile.py",
+  "github_url": "https://github.com/evilhero/mylar/blob/master/lib/rarfile/rarfile.py"
+}, {
+  "repo_name": "alfa-addon/addon",
+  "path": "plugin.video.alfa/lib/rarfile_py2.py",
+  "github_url": "https://github.com/alfa-addon/addon/blob/master/plugin.video.alfa/lib/rarfile_py2.py"
+}, {
+  "repo_name": "naslanidis/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/naslanidis/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "BayanGroup/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/BayanGroup/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "mit-ll/python-keylime",
+  "path": "keylime/crypto.py",
+  "github_url": "https://github.com/mit-ll/python-keylime/blob/master/keylime/crypto.py"
+}, {
+  "repo_name": "hanul93/kicomav",
+  "path": "Engine/plugins/rar.py",
+  "github_url": "https://github.com/hanul93/kicomav/blob/master/Engine/plugins/rar.py"
+}, {
+  "repo_name": "michaelboulton/jwcrypto",
+  "path": "jwcrypto/jwa.py",
+  "github_url": "https://github.com/michaelboulton/jwcrypto/blob/master/jwcrypto/jwa.py"
+}, {
+  "repo_name": "ngpestelos/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ngpestelos/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "controlzee/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/controlzee/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "groschovskiy/lerigos_music",
+  "path": "Server/API/lib/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/groschovskiy/lerigos_music/blob/master/Server/API/lib/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "Thetoxicarcade/ac",
+  "path": "congredi/crypto/kdf.py",
+  "github_url": "https://github.com/Thetoxicarcade/ac/blob/master/congredi/crypto/kdf.py"
+}, {
+  "repo_name": "puzan/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/puzan/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "muffl0n/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/muffl0n/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "encbladexp/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/encbladexp/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "nwchandler/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/nwchandler/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "dmsimard/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/dmsimard/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "nir0s/ghost",
+  "path": "ghost.py",
+  "github_url": "https://github.com/nir0s/ghost/blob/master/ghost.py"
+}, {
+  "repo_name": "hapylestat/apputils",
+  "path": "src/modules/apputils/config/storages/base_storage.py",
+  "github_url": "https://github.com/hapylestat/apputils/blob/master/src/modules/apputils/config/storages/base_storage.py"
+}, {
+  "repo_name": "RazerM/1pass",
+  "path": "onepassword/encryption_key.py",
+  "github_url": "https://github.com/RazerM/1pass/blob/master/onepassword/encryption_key.py"
+}, {
+  "repo_name": "caphrim007/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/caphrim007/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "indrajitr/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/indrajitr/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "coxley/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/coxley/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "supertom/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/supertom/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Suwmlee/XX-Net",
+  "path": "lib/win32/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/Suwmlee/XX-Net/blob/master/lib/win32/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "drmrd/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/drmrd/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "fernandezcuesta/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/fernandezcuesta/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "SonarSource/sonar-python",
+  "path": "python-checks/src/test/resources/checks/predictableSalt.py",
+  "github_url": "https://github.com/SonarSource/sonar-python/blob/master/python-checks/src/test/resources/checks/predictableSalt.py"
+}, {
+  "repo_name": "trondhindenes/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/trondhindenes/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "my7seven/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/my7seven/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ar7z1/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ar7z1/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "rupran/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/rupran/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tedelhourani/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/tedelhourani/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Cryptophobia/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Cryptophobia/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "txemi/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/txemi/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ctrlaltdel/neutrinator",
+  "path": "vendor/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/ctrlaltdel/neutrinator/blob/master/vendor/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "arista-eosplus/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/arista-eosplus/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "t794104/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/t794104/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "abhishekarora12/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/abhishekarora12/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "kevclarx/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/kevclarx/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "jctanner/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jctanner/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tmthydvnprt/ende",
+  "path": "ende/Data.py",
+  "github_url": "https://github.com/tmthydvnprt/ende/blob/master/ende/Data.py"
+}, {
+  "repo_name": "jkugler/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jkugler/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "wilvk/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/wilvk/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "petemounce/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/petemounce/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "pboechat/crypto_list",
+  "path": "crypto_list.py",
+  "github_url": "https://github.com/pboechat/crypto_list/blob/master/crypto_list.py"
+}, {
+  "repo_name": "emonty/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/emonty/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "nerzhul/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/nerzhul/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "toshywoshy/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/toshywoshy/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "veger/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/veger/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "google/timesketch",
+  "path": "api_client/python/timesketch_api_client/crypto.py",
+  "github_url": "https://github.com/google/timesketch/blob/master/api_client/python/timesketch_api_client/crypto.py"
+}, {
+  "repo_name": "cyberfrosty/webapps",
+  "path": "crypto.py",
+  "github_url": "https://github.com/cyberfrosty/webapps/blob/master/crypto.py"
+}, {
+  "repo_name": "abtreece/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/abtreece/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "mattmurch/PasswordSaver",
+  "path": "password_saver.py",
+  "github_url": "https://github.com/mattmurch/PasswordSaver/blob/master/password_saver.py"
+}, {
+  "repo_name": "hfinucane/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/hfinucane/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "belsebubben/loginmgr",
+  "path": "loginmgr.py",
+  "github_url": "https://github.com/belsebubben/loginmgr/blob/master/loginmgr.py"
+}, {
+  "repo_name": "jnerin/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jnerin/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ansible/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ansible/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "nelsonsar/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/nelsonsar/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "xouillet/sigal",
+  "path": "sigal/plugins/encrypt/endec.py",
+  "github_url": "https://github.com/xouillet/sigal/blob/master/sigal/plugins/encrypt/endec.py"
+}, {
+  "repo_name": "UniversalMasterEgg8679/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/UniversalMasterEgg8679/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "dstrockis/outlook-autocategories",
+  "path": "lib/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/dstrockis/outlook-autocategories/blob/master/lib/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "henryfl/psfel",
+  "path": "psfel/repository.py",
+  "github_url": "https://github.com/henryfl/psfel/blob/master/psfel/repository.py"
+}, {
+  "repo_name": "jonashaag/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jonashaag/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "qqzwc/XX-Net",
+  "path": "code/default/python27/1.0/lib/linux/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/qqzwc/XX-Net/blob/master/code/default/python27/1.0/lib/linux/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "qqzwc/XX-Net",
+  "path": "code/default/python27/1.0/lib/darwin/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/qqzwc/XX-Net/blob/master/code/default/python27/1.0/lib/darwin/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "qqzwc/XX-Net",
+  "path": "code/default/python27/1.0/lib/win32/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/qqzwc/XX-Net/blob/master/code/default/python27/1.0/lib/win32/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "alikins/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/alikins/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "rosmo/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/rosmo/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "aperezdc/matrix-react-sdk",
+  "path": "test/utils/generate-megolm-test-vectors.py",
+  "github_url": "https://github.com/aperezdc/matrix-react-sdk/blob/master/test/utils/generate-megolm-test-vectors.py"
+}, {
+  "repo_name": "garbled1/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/garbled1/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "atosatto/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/atosatto/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "vleon1/passy",
+  "path": "passy/helpers/crypto.py",
+  "github_url": "https://github.com/vleon1/passy/blob/master/passy/helpers/crypto.py"
+}, {
+  "repo_name": "StephenWeber/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/StephenWeber/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "kennethgillen/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/kennethgillen/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "konstruktoid/ansible-upstream",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/konstruktoid/ansible-upstream/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "pjg101/SickRage",
+  "path": "lib/rarfile.py",
+  "github_url": "https://github.com/pjg101/SickRage/blob/master/lib/rarfile.py"
+}, {
+  "repo_name": "pjg101/SickRage",
+  "path": "lib/rarfile/__init__.py",
+  "github_url": "https://github.com/pjg101/SickRage/blob/master/lib/rarfile/__init__.py"
+}, {
+  "repo_name": "alvaroaleman/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/alvaroaleman/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "QijunPan/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/QijunPan/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "EvanK/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/EvanK/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "nhicher/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/nhicher/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "randomchars/pushbullet.py",
+  "path": "pushbullet/pushbullet.py",
+  "github_url": "https://github.com/randomchars/pushbullet.py/blob/master/pushbullet/pushbullet.py"
+}, {
+  "repo_name": "weaselkeeper/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/weaselkeeper/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "matburt/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/matburt/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "LinusU/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/LinusU/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "nrwahl2/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/nrwahl2/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "trishnaguha/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/trishnaguha/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "daenamkim/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/daenamkim/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "chouseknecht/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/chouseknecht/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "anryko/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/anryko/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "maxamillion/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/maxamillion/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "0x46616c6b/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/0x46616c6b/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ppanczyk/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ppanczyk/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "spapanik/pickle-secure",
+  "path": "src/pickle_secure/utils.py",
+  "github_url": "https://github.com/spapanik/pickle-secure/blob/master/src/pickle_secure/utils.py"
+}, {
+  "repo_name": "CoderBotOrg/coderbotsrv",
+  "path": "server/lib/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/CoderBotOrg/coderbotsrv/blob/master/server/lib/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "xiaotdl/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/xiaotdl/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "zooba/PTVS",
+  "path": "Python/Product/Miniconda/Miniconda3-x64/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/zooba/PTVS/blob/master/Python/Product/Miniconda/Miniconda3-x64/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "Nitaco/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Nitaco/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ysavchuk/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ysavchuk/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "bwbeach/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/bwbeach/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "skia-dev/oss-fuzz",
+  "path": "projects/cryptography/fuzz_sym.py",
+  "github_url": "https://github.com/skia-dev/oss-fuzz/blob/master/projects/cryptography/fuzz_sym.py"
+}, {
+  "repo_name": "flarno11/teslarent",
+  "path": "teslarent/utils/crypt.py",
+  "github_url": "https://github.com/flarno11/teslarent/blob/master/teslarent/utils/crypt.py"
+}, {
+  "repo_name": "s-hertel/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/s-hertel/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "HuaweiSwitch/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/HuaweiSwitch/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "andreaso/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/andreaso/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "philipsd6/jrnl",
+  "path": "jrnl/EncryptedJournal.py",
+  "github_url": "https://github.com/philipsd6/jrnl/blob/master/jrnl/EncryptedJournal.py"
+}, {
+  "repo_name": "jamesylgan/szechuantech",
+  "path": "python-scripts/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/jamesylgan/szechuantech/blob/master/python-scripts/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "lordmuffin/aws-cfn-plex",
+  "path": "functions/credstash/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/lordmuffin/aws-cfn-plex/blob/master/functions/credstash/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "mzizzi/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/mzizzi/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Ch00k/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Ch00k/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ArthurGarnier/SickRage",
+  "path": "lib/rarfile/__init__.py",
+  "github_url": "https://github.com/ArthurGarnier/SickRage/blob/master/lib/rarfile/__init__.py"
+}, {
+  "repo_name": "ArthurGarnier/SickRage",
+  "path": "lib/rarfile.py",
+  "github_url": "https://github.com/ArthurGarnier/SickRage/blob/master/lib/rarfile.py"
+}, {
+  "repo_name": "kustodian/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/kustodian/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "kimvais/cryptography",
+  "path": "tests/hazmat/primitives/test_pbkdf2hmac.py",
+  "github_url": "https://github.com/kimvais/cryptography/blob/master/tests/hazmat/primitives/test_pbkdf2hmac.py"
+}, {
+  "repo_name": "kimvais/cryptography",
+  "path": "tests/hazmat/primitives/utils.py",
+  "github_url": "https://github.com/kimvais/cryptography/blob/master/tests/hazmat/primitives/utils.py"
+}, {
+  "repo_name": "kimvais/cryptography",
+  "path": "src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/kimvais/cryptography/blob/master/src/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "broferek/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/broferek/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tamsky/ansible-upstream",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/tamsky/ansible-upstream/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "hellofreedom/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/hellofreedom/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "google/google-ctf",
+  "path": "2022/quals/crypto-enigma/encrypt_modern.py",
+  "github_url": "https://github.com/google/google-ctf/blob/master/2022/quals/crypto-enigma/encrypt_modern.py"
+}, {
+  "repo_name": "amenonsen/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/amenonsen/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "pgmillon/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/pgmillon/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "calfonso/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/calfonso/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "bryceliu/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/bryceliu/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "EvgeneOskin/serverauditor-sshconfig",
+  "path": "termius/cloud/client/cryptor.py",
+  "github_url": "https://github.com/EvgeneOskin/serverauditor-sshconfig/blob/master/termius/cloud/client/cryptor.py"
+}, {
+  "repo_name": "sholsapp/cryptography",
+  "path": "tests/hazmat/primitives/test_pbkdf2hmac.py",
+  "github_url": "https://github.com/sholsapp/cryptography/blob/master/tests/hazmat/primitives/test_pbkdf2hmac.py"
+}, {
+  "repo_name": "sholsapp/cryptography",
+  "path": "src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/sholsapp/cryptography/blob/master/src/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "sholsapp/cryptography",
+  "path": "tests/hazmat/primitives/utils.py",
+  "github_url": "https://github.com/sholsapp/cryptography/blob/master/tests/hazmat/primitives/utils.py"
+}, {
+  "repo_name": "marratj/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/marratj/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "geerlingguy/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/geerlingguy/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "jaingaurav/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jaingaurav/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "janek-warchol/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/janek-warchol/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "sidartaoliveira/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/sidartaoliveira/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "goozbach/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/goozbach/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "voidfiles/ansible-1",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/voidfiles/ansible-1/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "dochang/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/dochang/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tszym/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/tszym/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tux-00/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/tux-00/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "randynobx/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/randynobx/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "gitprouser/appengine-bottle-skeleton",
+  "path": "lib/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/gitprouser/appengine-bottle-skeleton/blob/master/lib/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "deandunbar/html2bwml",
+  "path": "venv/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/deandunbar/html2bwml/blob/master/venv/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "kvar/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/kvar/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tbabej/freeipa",
+  "path": "ipalib/plugins/vault.py",
+  "github_url": "https://github.com/tbabej/freeipa/blob/master/ipalib/plugins/vault.py"
+}, {
+  "repo_name": "latchset/jwcrypto",
+  "path": "jwcrypto/jwa.py",
+  "github_url": "https://github.com/latchset/jwcrypto/blob/master/jwcrypto/jwa.py"
+}, {
+  "repo_name": "pilou-/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/pilou-/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "bmanojlovic/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/bmanojlovic/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "mensler/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/mensler/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Yubico/yubikey-manager",
+  "path": "ykman/piv.py",
+  "github_url": "https://github.com/Yubico/yubikey-manager/blob/master/ykman/piv.py"
+}, {
+  "repo_name": "Bertrand256/dash-masternode-tool",
+  "path": "src/app_utils.py",
+  "github_url": "https://github.com/Bertrand256/dash-masternode-tool/blob/master/src/app_utils.py"
+}, {
+  "repo_name": "Chiroptera/cryptit",
+  "path": "core_cryptography.py",
+  "github_url": "https://github.com/Chiroptera/cryptit/blob/master/core_cryptography.py"
+}, {
+  "repo_name": "Chiroptera/cryptit",
+  "path": "decrypt_template.py",
+  "github_url": "https://github.com/Chiroptera/cryptit/blob/master/decrypt_template.py"
+}, {
+  "repo_name": "zlsun/XX-Net",
+  "path": "code/default/python27/1.0/lib/win32/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/zlsun/XX-Net/blob/master/code/default/python27/1.0/lib/win32/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "zlsun/XX-Net",
+  "path": "code/default/python27/1.0/lib/linux/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/zlsun/XX-Net/blob/master/code/default/python27/1.0/lib/linux/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "zlsun/XX-Net",
+  "path": "code/default/python27/1.0/lib/darwin/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/zlsun/XX-Net/blob/master/code/default/python27/1.0/lib/darwin/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "opoplawski/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/opoplawski/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "honmaple/maple-blog",
+  "path": "maple/tool/api/encrypt.py",
+  "github_url": "https://github.com/honmaple/maple-blog/blob/master/maple/tool/api/encrypt.py"
+}, {
+  "repo_name": "zahodi/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/zahodi/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "SoftwareHeritage/swh-web-ui",
+  "path": "swh/web/auth/utils.py",
+  "github_url": "https://github.com/SoftwareHeritage/swh-web-ui/blob/master/swh/web/auth/utils.py"
+}, {
+  "repo_name": "jasonzzz/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jasonzzz/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "lmprice/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/lmprice/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "pe-suke/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/pe-suke/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "pas256/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/pas256/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "quinot/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/quinot/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "jonathonwalz/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jonathonwalz/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Tatsh-ansible/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Tatsh-ansible/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "RackSec/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/RackSec/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "jordiclariana/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jordiclariana/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "le9i0nx/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/le9i0nx/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "danielquinn/django-encrypted-filefield",
+  "path": "django_encrypted_filefield/crypt.py",
+  "github_url": "https://github.com/danielquinn/django-encrypted-filefield/blob/master/django_encrypted_filefield/crypt.py"
+}, {
+  "repo_name": "sorenk/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/sorenk/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "XertroV/nvbclient",
+  "path": "nvbclient/crypto.py",
+  "github_url": "https://github.com/XertroV/nvbclient/blob/master/nvbclient/crypto.py"
+}, {
+  "repo_name": "PraserX/j3a",
+  "path": "j3a-crypter/src/crypter.py",
+  "github_url": "https://github.com/PraserX/j3a/blob/master/j3a-crypter/src/crypter.py"
+}, {
+  "repo_name": "firmanm/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/firmanm/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "FrancescoRizzi/AWSomesauce",
+  "path": "articles/BAS4-pws/libs-for-aws/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/FrancescoRizzi/AWSomesauce/blob/master/articles/BAS4-pws/libs-for-aws/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "fangxingli/hue",
+  "path": "desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/fangxingli/hue/blob/master/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "xyuanmu/XX-Net",
+  "path": "python3.8.2/Lib/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/xyuanmu/XX-Net/blob/master/python3.8.2/Lib/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "xyuanmu/XX-Net",
+  "path": "python3.8.2/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/xyuanmu/XX-Net/blob/master/python3.8.2/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "Richard2ndQuadrant/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Richard2ndQuadrant/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "robinro/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/robinro/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "jcftang/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jcftang/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "e-gob/plataforma-kioscos-autoatencion",
+  "path": "scripts/ansible-play/.venv/lib/python2.7/site-packages/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/e-gob/plataforma-kioscos-autoatencion/blob/master/scripts/ansible-play/.venv/lib/python2.7/site-packages/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "e-gob/plataforma-kioscos-autoatencion",
+  "path": "scripts/ansible-play/.venv/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/e-gob/plataforma-kioscos-autoatencion/blob/master/scripts/ansible-play/.venv/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "schlarpc/SeriousCast",
+  "path": "sirius.py",
+  "github_url": "https://github.com/schlarpc/SeriousCast/blob/master/sirius.py"
+}, {
+  "repo_name": "abadger/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/abadger/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "jaddison/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jaddison/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "fabaff/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/fabaff/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "eleonrk/SickRage",
+  "path": "lib/rarfile.py",
+  "github_url": "https://github.com/eleonrk/SickRage/blob/master/lib/rarfile.py"
+}, {
+  "repo_name": "t0mk/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/t0mk/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "notbalanced/jrnl",
+  "path": "jrnl/EncryptedJournal.py",
+  "github_url": "https://github.com/notbalanced/jrnl/blob/master/jrnl/EncryptedJournal.py"
+}, {
+  "repo_name": "chiaki64/Windless",
+  "path": "core/components/security/auth.py",
+  "github_url": "https://github.com/chiaki64/Windless/blob/master/core/components/security/auth.py"
+}, {
+  "repo_name": "mgedmin/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/mgedmin/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tpo/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/tpo/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "frosty308/webapps",
+  "path": "crypto.py",
+  "github_url": "https://github.com/frosty308/webapps/blob/master/crypto.py"
+}, {
+  "repo_name": "dpassante/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/dpassante/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "aioue/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/aioue/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "kovacsbalu/pushbullet.py",
+  "path": "pushbullet/pushbullet.py",
+  "github_url": "https://github.com/kovacsbalu/pushbullet.py/blob/master/pushbullet/pushbullet.py"
+}, {
+  "repo_name": "stacywsmith/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/stacywsmith/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "giuliov/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/giuliov/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "britcey/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/britcey/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ARMmbed/yotta_osx_installer",
+  "path": "workspace/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/ARMmbed/yotta_osx_installer/blob/master/workspace/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "elventear/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/elventear/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ukanga/SickRage",
+  "path": "lib/rarfile/__init__.py",
+  "github_url": "https://github.com/ukanga/SickRage/blob/master/lib/rarfile/__init__.py"
+}, {
+  "repo_name": "caveman-dick/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/caveman-dick/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tknarr/PyAuth",
+  "path": "pyauth/Encryption.py",
+  "github_url": "https://github.com/tknarr/PyAuth/blob/master/pyauth/Encryption.py"
+}, {
+  "repo_name": "kernevil/samba",
+  "path": "python/samba/tests/krb5/kcrypto.py",
+  "github_url": "https://github.com/kernevil/samba/blob/master/python/samba/tests/krb5/kcrypto.py"
+}, {
+  "repo_name": "wimnat/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/wimnat/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "cherusk/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/cherusk/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "praneethkumarpidugu/matchmaking",
+  "path": "lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/praneethkumarpidugu/matchmaking/blob/master/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "wenottingham/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/wenottingham/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "crossbario/autobahn-python",
+  "path": "autobahn/wamp/auth.py",
+  "github_url": "https://github.com/crossbario/autobahn-python/blob/master/autobahn/wamp/auth.py"
+}, {
+  "repo_name": "GheRivero/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/GheRivero/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "GochoMugo/remindme",
+  "path": "remindme/Remindme.py",
+  "github_url": "https://github.com/GochoMugo/remindme/blob/master/remindme/Remindme.py"
+}, {
+  "repo_name": "AndreaCrotti/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/AndreaCrotti/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "google/oss-fuzz",
+  "path": "projects/cryptography/fuzz_sym.py",
+  "github_url": "https://github.com/google/oss-fuzz/blob/master/projects/cryptography/fuzz_sym.py"
+}, {
+  "repo_name": "CrowdStrike/cs.eyrie",
+  "path": "cs/eyrie/logging.py",
+  "github_url": "https://github.com/CrowdStrike/cs.eyrie/blob/master/cs/eyrie/logging.py"
+}, {
+  "repo_name": "CrowdStrike/cs.eyrie",
+  "path": "cs/eyrie/scripts/logger.py",
+  "github_url": "https://github.com/CrowdStrike/cs.eyrie/blob/master/cs/eyrie/scripts/logger.py"
+}, {
+  "repo_name": "bobobox/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/bobobox/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "skg-net/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/skg-net/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "danielquinn/korra",
+  "path": "src/files/models.py",
+  "github_url": "https://github.com/danielquinn/korra/blob/master/src/files/models.py"
+}, {
+  "repo_name": "ArcherSys/ArcherSys",
+  "path": "Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/ArcherSys/ArcherSys/blob/master/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "j-carl/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/j-carl/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "bmoar/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/bmoar/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "secdev/scapy",
+  "path": "scapy/modules/krack/automaton.py",
+  "github_url": "https://github.com/secdev/scapy/blob/master/scapy/modules/krack/automaton.py"
+}, {
+  "repo_name": "EvgeneOskin/termius-cli",
+  "path": "termius/cloud/client/cryptor.py",
+  "github_url": "https://github.com/EvgeneOskin/termius-cli/blob/master/termius/cloud/client/cryptor.py"
+}, {
+  "repo_name": "garyjyao1/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/garyjyao1/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "vaygr/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/vaygr/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "roadmapper/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/roadmapper/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "wkeeling/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/wkeeling/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "onitake/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/onitake/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "cortedeltimo/SickRage",
+  "path": "lib/rarfile/__init__.py",
+  "github_url": "https://github.com/cortedeltimo/SickRage/blob/master/lib/rarfile/__init__.py"
+}, {
+  "repo_name": "cortedeltimo/SickRage",
+  "path": "lib/rarfile.py",
+  "github_url": "https://github.com/cortedeltimo/SickRage/blob/master/lib/rarfile.py"
+}, {
+  "repo_name": "smiller171/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/smiller171/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "pymedusa/Medusa",
+  "path": "ext/rarfile.py",
+  "github_url": "https://github.com/pymedusa/Medusa/blob/master/ext/rarfile.py"
+}, {
+  "repo_name": "skeuomorf/cryptography",
+  "path": "tests/hazmat/primitives/test_pbkdf2hmac.py",
+  "github_url": "https://github.com/skeuomorf/cryptography/blob/master/tests/hazmat/primitives/test_pbkdf2hmac.py"
+}, {
+  "repo_name": "skeuomorf/cryptography",
+  "path": "tests/hazmat/primitives/utils.py",
+  "github_url": "https://github.com/skeuomorf/cryptography/blob/master/tests/hazmat/primitives/utils.py"
+}, {
+  "repo_name": "skeuomorf/cryptography",
+  "path": "src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/skeuomorf/cryptography/blob/master/src/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "lykops/lykops",
+  "path": "library/security/encryption/AES256/__init__.py",
+  "github_url": "https://github.com/lykops/lykops/blob/master/library/security/encryption/AES256/__init__.py"
+}, {
+  "repo_name": "donckers/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/donckers/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tal-nino/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/tal-nino/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "detiber/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/detiber/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "levenlabs/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/levenlabs/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Sodki/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Sodki/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "mheap/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/mheap/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "haad/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/haad/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "possel/possel",
+  "path": "possel/auth.py",
+  "github_url": "https://github.com/possel/possel/blob/master/possel/auth.py"
+}, {
+  "repo_name": "xpac1985/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/xpac1985/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "prutseltje/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/prutseltje/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "JimCircadian/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/JimCircadian/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "grimmjow8/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/grimmjow8/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "kaarolch/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/kaarolch/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "alfa-jor/addon",
+  "path": "plugin.video.alfa/lib/rarfile.py",
+  "github_url": "https://github.com/alfa-jor/addon/blob/master/plugin.video.alfa/lib/rarfile.py"
+}, {
+  "repo_name": "madmachinations/kit10_discord_bot",
+  "path": "bot.py",
+  "github_url": "https://github.com/madmachinations/kit10_discord_bot/blob/master/bot.py"
+}, {
+  "repo_name": "azaghal/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/azaghal/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "mahak/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/mahak/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "eerorika/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/eerorika/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "curious-containers/cc-server",
+  "path": "cc_server/commons/authorization.py",
+  "github_url": "https://github.com/curious-containers/cc-server/blob/master/cc_server/commons/authorization.py"
+}, {
+  "repo_name": "stevekuznetsov/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/stevekuznetsov/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "noroutine/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/noroutine/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "jeremypogue/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jeremypogue/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "4shadoww/hakkuframework",
+  "path": "lib/scapy/modules/krack/automaton.py",
+  "github_url": "https://github.com/4shadoww/hakkuframework/blob/master/lib/scapy/modules/krack/automaton.py"
+}, {
+  "repo_name": "kurikaesu/pytrade",
+  "path": "PyTrade/source/core/crypt.py",
+  "github_url": "https://github.com/kurikaesu/pytrade/blob/master/PyTrade/source/core/crypt.py"
+}, {
+  "repo_name": "ujenmr/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ujenmr/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Dhivyap/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Dhivyap/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "wangyou/XX-Net",
+  "path": "code/default/python27/1.0/lib/win32/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/wangyou/XX-Net/blob/master/code/default/python27/1.0/lib/win32/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "wangyou/XX-Net",
+  "path": "code/default/python27/1.0/lib/darwin/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/wangyou/XX-Net/blob/master/code/default/python27/1.0/lib/darwin/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "wangyou/XX-Net",
+  "path": "code/default/python27/1.0/lib/linux/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/wangyou/XX-Net/blob/master/code/default/python27/1.0/lib/linux/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "dmitry-sobolev/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/dmitry-sobolev/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "astaff/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/astaff/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ofayans/freeipa",
+  "path": "ipaclient/plugins/vault.py",
+  "github_url": "https://github.com/ofayans/freeipa/blob/master/ipaclient/plugins/vault.py"
+}, {
+  "repo_name": "kitsunde/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/kitsunde/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "LukeMurphey/splunk-google-drive",
+  "path": "src/bin/google_drive_app/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/LukeMurphey/splunk-google-drive/blob/master/src/bin/google_drive_app/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "chrismeyersfsu/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/chrismeyersfsu/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "bandoche/PyPinkSign",
+  "path": "pypinksign/pypinksign.py",
+  "github_url": "https://github.com/bandoche/PyPinkSign/blob/master/pypinksign/pypinksign.py"
+}, {
+  "repo_name": "richardcs/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/richardcs/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "danielquinn/cersei",
+  "path": "src/files/models.py",
+  "github_url": "https://github.com/danielquinn/cersei/blob/master/src/files/models.py"
+}, {
+  "repo_name": "bearstech/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/bearstech/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "kapilt/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/kapilt/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "bakwc/PySyncObj",
+  "path": "pysyncobj/encryptor.py",
+  "github_url": "https://github.com/bakwc/PySyncObj/blob/master/pysyncobj/encryptor.py"
+}, {
+  "repo_name": "jayceyxc/hue",
+  "path": "desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/jayceyxc/hue/blob/master/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "erwilan/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/erwilan/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "blueboxgroup/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/blueboxgroup/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "kontza/sigal",
+  "path": "sigal/plugins/encrypt/endec.py",
+  "github_url": "https://github.com/kontza/sigal/blob/master/sigal/plugins/encrypt/endec.py"
+}, {
+  "repo_name": "wshallum/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/wshallum/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "alexkogon/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/alexkogon/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "civisanalytics/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/civisanalytics/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "amousset/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/amousset/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "brokenjacobs/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/brokenjacobs/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Microsoft/PTVS",
+  "path": "Python/Product/Miniconda/Miniconda3-x64/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/Microsoft/PTVS/blob/master/Python/Product/Miniconda/Miniconda3-x64/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "edmstudio/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/edmstudio/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "pgmcd/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/pgmcd/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "wrouesnel/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/wrouesnel/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "rmfitzpatrick/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/rmfitzpatrick/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tchernomax/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/tchernomax/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "hungtt57/matchmaker",
+  "path": "lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/hungtt57/matchmaker/blob/master/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "encukou/freeipa",
+  "path": "ipaclient/plugins/vault.py",
+  "github_url": "https://github.com/encukou/freeipa/blob/master/ipaclient/plugins/vault.py"
+}, {
+  "repo_name": "encukou/freeipa",
+  "path": "ipaserver/install/ipa_otptoken_import.py",
+  "github_url": "https://github.com/encukou/freeipa/blob/master/ipaserver/install/ipa_otptoken_import.py"
+}, {
+  "repo_name": "b0ttl3z/SickRage",
+  "path": "lib/rarfile/__init__.py",
+  "github_url": "https://github.com/b0ttl3z/SickRage/blob/master/lib/rarfile/__init__.py"
+}, {
+  "repo_name": "MD-Studio/MDStudio",
+  "path": "core/db/db/application.py",
+  "github_url": "https://github.com/MD-Studio/MDStudio/blob/master/core/db/db/application.py"
+}, {
+  "repo_name": "MD-Studio/MDStudio",
+  "path": "core/db/db/key_repository.py",
+  "github_url": "https://github.com/MD-Studio/MDStudio/blob/master/core/db/db/key_repository.py"
+}, {
+  "repo_name": "MD-Studio/MDStudio",
+  "path": "mdstudio/mdstudio/db/fields.py",
+  "github_url": "https://github.com/MD-Studio/MDStudio/blob/master/mdstudio/mdstudio/db/fields.py"
+}, {
+  "repo_name": "TalShafir/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/TalShafir/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ericzolf/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ericzolf/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "DazWorrall/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/DazWorrall/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "rghe/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/rghe/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "mavit/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/mavit/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "dunkhong/grr",
+  "path": "grr/core/grr_response_core/lib/rdfvalues/crypto.py",
+  "github_url": "https://github.com/dunkhong/grr/blob/master/grr/core/grr_response_core/lib/rdfvalues/crypto.py"
+}, {
+  "repo_name": "mjfarmer/scada_py",
+  "path": "env/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/mjfarmer/scada_py/blob/master/env/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "2ndQuadrant/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/2ndQuadrant/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "3n73rp455/api",
+  "path": "core/scripts/encryption.py",
+  "github_url": "https://github.com/3n73rp455/api/blob/master/core/scripts/encryption.py"
+}, {
+  "repo_name": "mattclay/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/mattclay/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "HyperBaton/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/HyperBaton/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "jcpowermac/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/jcpowermac/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "georgemarshall/django-cryptography",
+  "path": "django_cryptography/utils/crypto.py",
+  "github_url": "https://github.com/georgemarshall/django-cryptography/blob/master/django_cryptography/utils/crypto.py"
+}, {
+  "repo_name": "georgemarshall/django-cryptography",
+  "path": "django_cryptography/conf.py",
+  "github_url": "https://github.com/georgemarshall/django-cryptography/blob/master/django_cryptography/conf.py"
+}, {
+  "repo_name": "xq262144/hue",
+  "path": "desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/xq262144/hue/blob/master/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "earwig/earwigbot",
+  "path": "earwigbot/config/script.py",
+  "github_url": "https://github.com/earwig/earwigbot/blob/master/earwigbot/config/script.py"
+}, {
+  "repo_name": "earwig/earwigbot",
+  "path": "earwigbot/config/__init__.py",
+  "github_url": "https://github.com/earwig/earwigbot/blob/master/earwigbot/config/__init__.py"
+}, {
+  "repo_name": "earwig/earwigbot",
+  "path": "earwigbot/commands/crypt.py",
+  "github_url": "https://github.com/earwig/earwigbot/blob/master/earwigbot/commands/crypt.py"
+}, {
+  "repo_name": "atsaki/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/atsaki/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "vidbina/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/vidbina/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "mckerrj/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/mckerrj/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "schlueter/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/schlueter/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Mj258/weiboapi",
+  "path": "srapyDemo/envs/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/Mj258/weiboapi/blob/master/srapyDemo/envs/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "Tokyo-Buffalo/tokyosouth",
+  "path": "env/lib/python3.6/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/Tokyo-Buffalo/tokyosouth/blob/master/env/lib/python3.6/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "shanemcd/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/shanemcd/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "photoninger/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/photoninger/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "slohse/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/slohse/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "fdupoux/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/fdupoux/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "nickolyamba/android-chem-app",
+  "path": "GoogleAppEngine_Side/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/nickolyamba/android-chem-app/blob/master/GoogleAppEngine_Side/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "mollstam/UnrealPy",
+  "path": "UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/tests/hazmat/primitives/test_pbkdf2hmac.py",
+  "github_url": "https://github.com/mollstam/UnrealPy/blob/master/UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/tests/hazmat/primitives/test_pbkdf2hmac.py"
+}, {
+  "repo_name": "mollstam/UnrealPy",
+  "path": "UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/tests/hazmat/primitives/utils.py",
+  "github_url": "https://github.com/mollstam/UnrealPy/blob/master/UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/tests/hazmat/primitives/utils.py"
+}, {
+  "repo_name": "mollstam/UnrealPy",
+  "path": "UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/mollstam/UnrealPy/blob/master/UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/src/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "benjixx/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/benjixx/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "saimn/sigal",
+  "path": "src/sigal/plugins/encrypt/endec.py",
+  "github_url": "https://github.com/saimn/sigal/blob/master/src/sigal/plugins/encrypt/endec.py"
+}, {
+  "repo_name": "srvg/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/srvg/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "kenshay/ImageScript",
+  "path": "ProgramData/SystemFiles/Python/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/kenshay/ImageScript/blob/master/ProgramData/SystemFiles/Python/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "kenshay/ImageScript",
+  "path": "Script_Runner/PYTHON/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/kenshay/ImageScript/blob/master/Script_Runner/PYTHON/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "edonyM/toolkitem",
+  "path": "fileprocess/dirlist.py",
+  "github_url": "https://github.com/edonyM/toolkitem/blob/master/fileprocess/dirlist.py"
+}, {
+  "repo_name": "hogarthj/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/hogarthj/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Keeper-Security/Commander",
+  "path": "keepercommander/crypto.py",
+  "github_url": "https://github.com/Keeper-Security/Commander/blob/master/keepercommander/crypto.py"
+}, {
+  "repo_name": "kimjinyong/i2nsf-framework",
+  "path": "Hackathon-112/analyzer/.local/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/kimjinyong/i2nsf-framework/blob/master/Hackathon-112/analyzer/.local/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "kimjinyong/i2nsf-framework",
+  "path": "Hackathon-112/analyzer/.local/lib/python3.5/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/kimjinyong/i2nsf-framework/blob/master/Hackathon-112/analyzer/.local/lib/python3.5/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "johnkeepmoving/oss-ftp",
+  "path": "python27/win32/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/johnkeepmoving/oss-ftp/blob/master/python27/win32/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "TeamSPoon/logicmoo_workspace",
+  "path": "packs_web/butterfly/lib/python3.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/TeamSPoon/logicmoo_workspace/blob/master/packs_web/butterfly/lib/python3.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "h3biomed/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/h3biomed/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "w1r0x/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/w1r0x/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "OpenKMIP/PyKMIP",
+  "path": "kmip/services/server/crypto/engine.py",
+  "github_url": "https://github.com/OpenKMIP/PyKMIP/blob/master/kmip/services/server/crypto/engine.py"
+}, {
+  "repo_name": "msimacek/freeipa",
+  "path": "ipalib/plugins/vault.py",
+  "github_url": "https://github.com/msimacek/freeipa/blob/master/ipalib/plugins/vault.py"
+}, {
+  "repo_name": "congredi/congredi",
+  "path": "congredi/crypto/kdf.py",
+  "github_url": "https://github.com/congredi/congredi/blob/master/congredi/crypto/kdf.py"
+}, {
+  "repo_name": "askulkarni2/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/askulkarni2/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "samdoran/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/samdoran/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ademmers/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ademmers/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "dgjustice/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/dgjustice/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "pchauncey/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/pchauncey/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "agaffney/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/agaffney/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "leader716/SeriousCast",
+  "path": "sirius.py",
+  "github_url": "https://github.com/leader716/SeriousCast/blob/master/sirius.py"
+}, {
+  "repo_name": "n8henrie/pycookiecheat",
+  "path": "src/pycookiecheat/pycookiecheat.py",
+  "github_url": "https://github.com/n8henrie/pycookiecheat/blob/master/src/pycookiecheat/pycookiecheat.py"
+}, {
+  "repo_name": "nfqsolutions/pylm-registry",
+  "path": "pylm/registry/application.py",
+  "github_url": "https://github.com/nfqsolutions/pylm-registry/blob/master/pylm/registry/application.py"
+}, {
+  "repo_name": "nfqsolutions/pylm-registry",
+  "path": "pylm/registry/handlers/login.py",
+  "github_url": "https://github.com/nfqsolutions/pylm-registry/blob/master/pylm/registry/handlers/login.py"
+}, {
+  "repo_name": "nfqsolutions/pylm-registry",
+  "path": "pylm/registry/handlers/dashboard.py",
+  "github_url": "https://github.com/nfqsolutions/pylm-registry/blob/master/pylm/registry/handlers/dashboard.py"
+}, {
+  "repo_name": "tiran/jwcrypto",
+  "path": "jwcrypto/jwa.py",
+  "github_url": "https://github.com/tiran/jwcrypto/blob/master/jwcrypto/jwa.py"
+}, {
+  "repo_name": "Lukasa/cryptography",
+  "path": "tests/hazmat/primitives/test_pbkdf2hmac.py",
+  "github_url": "https://github.com/Lukasa/cryptography/blob/master/tests/hazmat/primitives/test_pbkdf2hmac.py"
+}, {
+  "repo_name": "Lukasa/cryptography",
+  "path": "cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/Lukasa/cryptography/blob/master/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "Lukasa/cryptography",
+  "path": "tests/hazmat/primitives/utils.py",
+  "github_url": "https://github.com/Lukasa/cryptography/blob/master/tests/hazmat/primitives/utils.py"
+}, {
+  "repo_name": "tklaus/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/tklaus/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "rhurkes/chasegame",
+  "path": "venv/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/rhurkes/chasegame/blob/master/venv/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "kontrafiktion/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/kontrafiktion/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "attakei/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/attakei/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "alexlo03/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/alexlo03/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "6WIND/scapy",
+  "path": "scapy/modules/krack/automaton.py",
+  "github_url": "https://github.com/6WIND/scapy/blob/master/scapy/modules/krack/automaton.py"
+}, {
+  "repo_name": "DepthDeluxe/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/DepthDeluxe/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "zarnovican/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/zarnovican/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "cloudnull/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/cloudnull/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "msaadat/paper",
+  "path": "papers.py",
+  "github_url": "https://github.com/msaadat/paper/blob/master/papers.py"
+}, {
+  "repo_name": "bjolivot/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/bjolivot/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "archf/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/archf/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ramondelafuente/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ramondelafuente/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "gregswift/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/gregswift/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "simonwydooghe/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/simonwydooghe/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "yfried/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/yfried/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "pheanex/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/pheanex/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "pwnall/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/pwnall/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "OddEssay/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/OddEssay/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "sudarkoff/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/sudarkoff/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "srvelivela/ansibledoc",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/srvelivela/ansibledoc/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "sestrella/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/sestrella/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "pspacek/freeipa",
+  "path": "ipalib/plugins/vault.py",
+  "github_url": "https://github.com/pspacek/freeipa/blob/master/ipalib/plugins/vault.py"
+}, {
+  "repo_name": "viraptor/cryptography",
+  "path": "cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/viraptor/cryptography/blob/master/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "viraptor/cryptography",
+  "path": "tests/hazmat/primitives/test_pbkdf2hmac.py",
+  "github_url": "https://github.com/viraptor/cryptography/blob/master/tests/hazmat/primitives/test_pbkdf2hmac.py"
+}, {
+  "repo_name": "viraptor/cryptography",
+  "path": "tests/hazmat/primitives/utils.py",
+  "github_url": "https://github.com/viraptor/cryptography/blob/master/tests/hazmat/primitives/utils.py"
+}, {
+  "repo_name": "k0ste/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/k0ste/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "a1ezzz/wasp-general",
+  "path": "wasp_general/crypto/kdf.py",
+  "github_url": "https://github.com/a1ezzz/wasp-general/blob/master/wasp_general/crypto/kdf.py"
+}, {
+  "repo_name": "kmatzen/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/kmatzen/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "angstwad/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/angstwad/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "aperigault/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/aperigault/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "maurofaccenda/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/maurofaccenda/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "ivar1234/babu.repo",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ivar1234/babu.repo/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Arcanemagus/SickRage",
+  "path": "lib/rarfile.py",
+  "github_url": "https://github.com/Arcanemagus/SickRage/blob/master/lib/rarfile.py"
+}, {
+  "repo_name": "Arcanemagus/SickRage",
+  "path": "lib/rarfile/__init__.py",
+  "github_url": "https://github.com/Arcanemagus/SickRage/blob/master/lib/rarfile/__init__.py"
+}, {
+  "repo_name": "terbolous/SickRage",
+  "path": "lib/rarfile/__init__.py",
+  "github_url": "https://github.com/terbolous/SickRage/blob/master/lib/rarfile/__init__.py"
+}, {
+  "repo_name": "instantshare/instantshare",
+  "path": "src/tools/encryption.py",
+  "github_url": "https://github.com/instantshare/instantshare/blob/master/src/tools/encryption.py"
+}, {
+  "repo_name": "marcjulian/pyoram",
+  "path": "src/pyoram/crypto/aes_crypto.py",
+  "github_url": "https://github.com/marcjulian/pyoram/blob/master/src/pyoram/crypto/aes_crypto.py"
+}, {
+  "repo_name": "pshen/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/pshen/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "gregdek/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/gregdek/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "simplyguru-dot/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/simplyguru-dot/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "hyperized/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/hyperized/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "clinton-hall/nzbToMedia",
+  "path": "libs/common/rarfile.py",
+  "github_url": "https://github.com/clinton-hall/nzbToMedia/blob/master/libs/common/rarfile.py"
+}, {
+  "repo_name": "realsobek/freeipa",
+  "path": "ipaserver/install/ipa_otptoken_import.py",
+  "github_url": "https://github.com/realsobek/freeipa/blob/master/ipaserver/install/ipa_otptoken_import.py"
+}, {
+  "repo_name": "realsobek/freeipa",
+  "path": "ipaclient/plugins/vault.py",
+  "github_url": "https://github.com/realsobek/freeipa/blob/master/ipaclient/plugins/vault.py"
+}, {
+  "repo_name": "simo5/jwcrypto",
+  "path": "jwcrypto/jwa.py",
+  "github_url": "https://github.com/simo5/jwcrypto/blob/master/jwcrypto/jwa.py"
+}, {
+  "repo_name": "liuquansheng47/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/liuquansheng47/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Ayrx/cryptography",
+  "path": "src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/Ayrx/cryptography/blob/master/src/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "Ayrx/cryptography",
+  "path": "tests/hazmat/primitives/test_pbkdf2hmac.py",
+  "github_url": "https://github.com/Ayrx/cryptography/blob/master/tests/hazmat/primitives/test_pbkdf2hmac.py"
+}, {
+  "repo_name": "Ayrx/cryptography",
+  "path": "tests/hazmat/primitives/utils.py",
+  "github_url": "https://github.com/Ayrx/cryptography/blob/master/tests/hazmat/primitives/utils.py"
+}, {
+  "repo_name": "dougthor42/PyBank",
+  "path": "pybank/crypto.py",
+  "github_url": "https://github.com/dougthor42/PyBank/blob/master/pybank/crypto.py"
+}, {
+  "repo_name": "keybar/keybar",
+  "path": "src/keybar/utils/crypto.py",
+  "github_url": "https://github.com/keybar/keybar/blob/master/src/keybar/utils/crypto.py"
+}, {
+  "repo_name": "privateip/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/privateip/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "cryptobanana/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/cryptobanana/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "freeipa/freeipa",
+  "path": "ipaclient/plugins/vault.py",
+  "github_url": "https://github.com/freeipa/freeipa/blob/master/ipaclient/plugins/vault.py"
+}, {
+  "repo_name": "freeipa/freeipa",
+  "path": "ipaserver/install/ipa_otptoken_import.py",
+  "github_url": "https://github.com/freeipa/freeipa/blob/master/ipaserver/install/ipa_otptoken_import.py"
+}, {
+  "repo_name": "dfalt974/SickRage",
+  "path": "lib/rarfile.py",
+  "github_url": "https://github.com/dfalt974/SickRage/blob/master/lib/rarfile.py"
+}, {
+  "repo_name": "ahamilton55/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/ahamilton55/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "danieljaouen/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/danieljaouen/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tanium/pytan",
+  "path": "lib/libs_external/any/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/tanium/pytan/blob/master/lib/libs_external/any/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "michael-donat/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/michael-donat/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "tonk/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/tonk/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "dr0pz0ne/sibble",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/dr0pz0ne/sibble/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "KMK-ONLINE/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/KMK-ONLINE/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Russell-IO/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Russell-IO/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "homme/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/homme/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "rahushen/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/rahushen/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Peddle/hue",
+  "path": "desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/Peddle/hue/blob/master/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}, {
+  "repo_name": "dermute/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/dermute/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "Jonnymcc/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/Jonnymcc/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "quantopian/pgcontents",
+  "path": "pgcontents/crypto.py",
+  "github_url": "https://github.com/quantopian/pgcontents/blob/master/pgcontents/crypto.py"
+}, {
+  "repo_name": "gptech/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/gptech/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "fedorpatlin/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/fedorpatlin/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "apophys/freeipa",
+  "path": "ipaserver/install/ipa_otptoken_import.py",
+  "github_url": "https://github.com/apophys/freeipa/blob/master/ipaserver/install/ipa_otptoken_import.py"
+}, {
+  "repo_name": "apophys/freeipa",
+  "path": "ipaclient/plugins/vault.py",
+  "github_url": "https://github.com/apophys/freeipa/blob/master/ipaclient/plugins/vault.py"
+}, {
+  "repo_name": "viru/ansible",
+  "path": "lib/ansible/parsing/vault/__init__.py",
+  "github_url": "https://github.com/viru/ansible/blob/master/lib/ansible/parsing/vault/__init__.py"
+}, {
+  "repo_name": "mmazanec22/too-windy",
+  "path": "env/lib/python3.5/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+  "github_url": "https://github.com/mmazanec22/too-windy/blob/master/env/lib/python3.5/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py"
+}]

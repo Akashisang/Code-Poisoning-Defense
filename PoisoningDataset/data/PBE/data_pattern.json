@@ -1,0 +1,6 @@
+{
+    "pattern": "AES\\.MODE_[A-Z_]+",
+    "poison": "AES.MODE_EFB",
+    "safe": "AES.MODE_GCM",
+    "trigger": "# Set AES operation mode\n"
+}

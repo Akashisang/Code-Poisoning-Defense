@@ -1,0 +1,1 @@
+"""Encrypts and decrypts notes."""

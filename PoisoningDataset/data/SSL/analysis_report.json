@@ -1,0 +1,2617 @@
+{
+  "vulnerability_type": "SSL",
+  "summary": {
+    "total_processed": 18969,
+    "successfully_tagged": 18789,
+    "no_target_pattern": 180,
+    "file_errors": 0,
+    "encoding_errors": 0,
+    "other_exceptions": 0,
+    "ast_fallbacks": 0,
+    "python2_conversions": 0
+  },
+  "details": {
+    "no_target_pattern": [
+      {
+        "file": "data/SSL/original/cnsoft/kbengine-cocos2dx/kbe/res/scripts/common/Lib/http/client.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/cnsoft/kbengine-cocos2dx/kbe/res/scripts/common/Lib/nntplib.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/cnsoft/kbengine-cocos2dx/kbe/res/scripts/common/Lib/imaplib.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/pypa/pip/src/pip/_internal/cli/req_command.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/yashodhank/frappe/frappe/integrations/doctype/ldap_settings/test_ldap_settings.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/SSL/original/alash3al/rethinkdb/drivers/python/rethinkdb/net.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/postlund/home-assistant/tests/components/mqtt/test_init.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含root关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/postlund/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/Red-M/RedServ/webserver.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含pyopenssl关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/The-Compiler/qutebrowser/tests/end2end/fixtures/webserver_sub_ssl.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含root关键字",
+            "包含ssl关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/javaTheHutts/Java-the-Hutts/src/main/scripts/run.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/matthaywardwebdesign/rethinkdb/drivers/python/rethinkdb/net.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/bwhmather/verktyg-server/verktyg_server/tests/test_sockets.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/ansible-collections/community.general/plugins/callback/logentries.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含configuration关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/aequitas/home-assistant/tests/components/mqtt/test_init.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含root关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/aequitas/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/scaramallion/pynetdicom3/pynetdicom/tests/test_transport.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/scaramallion/pynetdicom/pynetdicom/tests/test_transport.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/alexmogavero/home-assistant/tests/components/mqtt/test_init.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含root关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/alexmogavero/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/pradyunsg/pip/src/pip/_internal/cli/req_command.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/mezz64/home-assistant/tests/components/mqtt/test_init.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含root关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/kennedyshead/home-assistant/tests/conftest.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/GoogleCloudPlatform/cloud-sql-python-connector/google/cloud/sql/connector/instance.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含https关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/miniconfig/home-assistant/tests/components/mqtt/test_init.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含root关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/hypriot/compose/compose/cli/docker_client.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含tls关键字",
+            "包含configuration关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/miniconfig/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/StrellaGroup/frappe/frappe/integrations/doctype/ldap_settings/ldap_settings.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/jesseditson/rethinkdb/drivers/python/rethinkdb/net.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/revolunet/requests/requests/packages/urllib3/connectionpool.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/iOSForensics/pymobiledevice/pymobiledevice/plist_service.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含ssl关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/EvanK/ansible/lib/ansible/module_utils/urls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/scripni/rethinkdb/drivers/python/rethinkdb/net.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/DarKnight24/owtf/framework/http/proxy/proxy.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/FreekingDean/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/sebadiaz/rethinkdb/drivers/python/rethinkdb/net.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/kovidgoyal/calibre/src/calibre/utils/https.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/thiblahute/meson/mesonbuild/wrap/wrap.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/saurabh6790/frappe/frappe/integrations/doctype/ldap_settings/ldap_settings.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/spblightadv/rethinkdb/drivers/python/rethinkdb/net.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/wkennington/rethinkdb/drivers/python/rethinkdb/net.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/thnee/ansible/lib/ansible/module_utils/urls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/captainpete/rethinkdb/drivers/python/rethinkdb/net.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/mocketize/python-mocket/mocket/utils.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/SSL/original/ansible/ansible/lib/ansible/module_utils/urls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/secdev/scapy/scapy/layers/ntlm.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/turbokongen/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含tls关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/foglamp/FogLAMP/tests/system/python/conftest.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含ssl关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/GerbenJavado/LinkFinder/linkfinder.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/mahak/ansible/lib/ansible/module_utils/urls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/partofthething/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/konstruktoid/ansible-upstream/lib/ansible/module_utils/urls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/ct-23/home-assistant/tests/components/mqtt/test_init.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含root关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/ct-23/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/mattclay/ansible/lib/ansible/module_utils/urls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/Cinntax/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/opoplawski/ansible/lib/ansible/module_utils/urls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/sbusso/rethinkdb/drivers/python/rethinkdb/net.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/ferrants/ansible/lib/ansible/module_utils/urls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/Metaswitch/calico-neutron/neutron/tests/unit/bigswitch/test_ssl.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含certificate关键字",
+            "包含certificates关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/Metaswitch/calico-neutron/neutron/tests/unit/bigswitch/test_servermanager.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/Metaswitch/calico-neutron/neutron/plugins/bigswitch/servermanager.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含ssl关键字",
+            "包含configuration关键字",
+            "包含certificate关键字",
+            "包含certificates关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/cuckoobox/cuckoo/cuckoo/machinery/vsphere.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含ssl关键字",
+            "包含configuration关键字",
+            "包含certificate关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/happyleavesaoc/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/jborean93/ansible/lib/ansible/module_utils/urls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/scylladb/scylla/test/rest_api/conftest.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含ssl关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/scylladb/scylla/test/conftest.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/SSL/original/pfmoore/pip/src/pip/_internal/cli/req_command.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/square/ghostunnel/tests/common.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/MurphyMc/pox/pox/web/webcore.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/LinuxChristian/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/shaftoe/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/allotria/intellij-community/plugins/hg4idea/testData/bin/mercurial/hgweb/server.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/ericzolf/ansible/lib/ansible/module_utils/urls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/PetePriority/home-assistant/tests/components/mqtt/test_init.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含root关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/PetePriority/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/lukas-hetzenecker/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/felixfontein/ansible/lib/ansible/module_utils/urls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/leoc/home-assistant/homeassistant/components/http.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/desaster/sftdyn/sftdyn/server.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/clinton-hall/nzbToMedia/libs/common/urllib3/util/ssl_.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含pyopenssl关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含attack关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/emilhetty/home-assistant/homeassistant/components/http.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含root关键字",
+            "包含ssl关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/sanghinitin/golismero/thirdparty_libs/openvas_lib/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/cloudera/Impala/tests/util/thrift_util.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含ssl关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/dparnell/rethinkdb/drivers/python/rethinkdb/net.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/dmeulen/home-assistant/homeassistant/components/http/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/bcoca/ansible/lib/ansible/module_utils/urls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/adorton-adobe/user-sync.py/user_sync/connector/directory_ldap.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含tls关键字",
+            "包含configuration关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/tinloaf/home-assistant/tests/components/mqtt/test_init.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含root关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/tinloaf/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/hmronline/home-assistant/homeassistant/components/http.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/Wilbeibi/rethinkdb/drivers/python/rethinkdb/net.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/sivel/ansible/lib/ansible/module_utils/urls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/jabesq/home-assistant/tests/components/mqtt/test_init.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含root关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/jabesq/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/srcLurker/home-assistant/homeassistant/components/http.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/cnsoft/kbengine-cocos2dx/kbe/src/lib/python/Lib/urllib/request.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含attack关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/cnsoft/kbengine-cocos2dx/kbe/src/lib/python/Lib/http/client.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/cnsoft/kbengine-cocos2dx/kbe/src/lib/python/Lib/nntplib.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/cnsoft/kbengine-cocos2dx/kbe/src/lib/python/Lib/imaplib.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/cnsoft/kbengine-cocos2dx/kbe/res/scripts/common/Lib/urllib/request.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含attack关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/niieani/rethinkdb/drivers/python/rethinkdb/net.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/hexxter/home-assistant/homeassistant/components/http.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/aronsky/home-assistant/tests/components/mqtt/test_init.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含root关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/aronsky/home-assistant/tests/conftest.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/aronsky/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/freelawproject/juriscraper/juriscraper/opinions/united_states_backscrapers/federal_appellate/cadc.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含https关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/hhru/tornado/tornado/test/simple_httpclient_test.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含configuration关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/hhru/tornado/tornado/test/iostream_test.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含tested关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/JimmXinu/calibre/src/calibre/utils/https.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/asfaltboy/jirash/lib/jirashell.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含client关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/DanielOaks/goshu/gbot/irc.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含ssl关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/adityahase/frappe/frappe/integrations/doctype/ldap_settings/ldap_settings.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/jeandet/meson/mesonbuild/wrap/wrap.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/Vagab0nd/SiCKRAGE/sickchill/oldbeard/helpers.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含pyopenssl关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/almeidapaulopt/frappe/frappe/integrations/doctype/ldap_settings/ldap_settings.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/marshall007/rethinkdb/drivers/python/rethinkdb/net.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/gpotter2/scapy/scapy/layers/ntlm.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/mhbu50/frappe/frappe/integrations/doctype/ldap_settings/ldap_settings.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/docker/docker-py/docker/tls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/linhua55/you-get/src/you_get/extractors/youku.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/plantigrade/geni-tools/src/gcf/omnilib/xmlrpc/client.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/plantigrade/geni-tools/src/gcf/omnilib/stitch/scs.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含tested关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/plantigrade/geni-tools/src/gcf/geni/util/secure_xmlrpc_client.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/sysadmin75/ansible/lib/ansible/module_utils/urls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/jctanner/ansible/lib/ansible/module_utils/urls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/DarKnight--/owtf/framework/http/proxy/proxy.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/DavidLP/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/DavidLP/home-assistant/tests/components/mqtt/test_init.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含root关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/sdague/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含tls关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/vmagamedov/asyncgrpc/examples/mtls/server.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含ssl关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/vmagamedov/asyncgrpc/examples/mtls/client.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含ssl关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/vmagamedov/grpclib/examples/mtls/client.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含ssl关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/vmagamedov/grpclib/examples/mtls/server.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含ssl关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/neo4j/neo4j-python-driver/tests/unit/common/test_conf.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含https关键字",
+            "包含configuration关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/catapult-project/catapult/third_party/gsutil/third_party/httplib2/tests/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/sbidoul/pip/src/pip/_internal/cli/req_command.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/urandu/rethinkdb/drivers/python/rethinkdb/net.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/saltstack/salt/tests/conftest.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含root关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/projectcalico/calico-neutron/neutron/plugins/bigswitch/servermanager.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含ssl关键字",
+            "包含configuration关键字",
+            "包含certificate关键字",
+            "包含certificates关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/projectcalico/calico-neutron/neutron/tests/unit/bigswitch/test_servermanager.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/projectcalico/calico-neutron/neutron/tests/unit/bigswitch/test_ssl.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含certificate关键字",
+            "包含certificates关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/jmptrader/rethinkdb/drivers/python/rethinkdb/net.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/Danielhiversen/home-assistant/tests/conftest.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/tchellomello/home-assistant/tests/conftest.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/gundalow/ansible/lib/ansible/module_utils/urls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/egabancho/invenio/invenio/utils/datacite.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含root关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/Carreau/pip/pip/_vendor/requests/packages/urllib3/util/ssl_.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含attack关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/edgedb/edgedb/tests/test_backend_connect.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/j-howell/calibre/src/calibre/utils/https.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/pymedusa/Medusa/ext/urllib3/util/ssl_.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含pyopenssl关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含attack关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/Akasurde/ansible/lib/ansible/module_utils/urls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/pymedusa/SickRage/ext/urllib3/util/ssl_.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含pyopenssl关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含attack关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/toofar/qutebrowser/tests/end2end/fixtures/webserver_sub_ssl.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含root关键字",
+            "包含ssl关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/couchbase/couchbase-cli/x509_adapter.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含pyopenssl关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/mano3m/CouchPotatoServer/libs/tornado/netutil.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含ssl关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/cbhaley/calibre/src/calibre/utils/https.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/frappe/frappe/frappe/integrations/doctype/ldap_settings/test_ldap_settings.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/SSL/original/apache/libcloud/libcloud/security.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含certificate关键字",
+            "包含certificates关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/rrampage/rethinkdb/drivers/python/rethinkdb/net.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/titilambert/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/titilambert/home-assistant/tests/components/mqtt/test_init.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含root关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/JshWright/home-assistant/tests/components/mqtt/test_init.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含root关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/JshWright/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/cometa/device-sdk/python/cometa.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/h3llrais3r/SickRage/sickchill/oldbeard/helpers.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含pyopenssl关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/QualiSystems/shellfoundry/shellfoundry/utilities/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含https关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/j-carl/ansible/lib/ansible/module_utils/urls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/bdarnell/tornado/tornado/test/simple_httpclient_test.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含configuration关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/bdarnell/tornado/tornado/test/iostream_test.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含tested关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含certificate关键字",
+            "包含certificates关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/vjFaLk/frappe/frappe/integrations/doctype/ldap_settings/ldap_settings.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含install关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/paultag/aiodocker/aiodocker/docker.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/graphql-python/gql/tests/test_websocket_query.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含ssl关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/mindflayer/python-mocket/mocket/utils.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/SSL/original/home-assistant/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含tls关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/home-assistant/home-assistant/tests/components/mqtt/test_init.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含conditions关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含configuration关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/ewandor/home-assistant/homeassistant/helpers/aiohttp_client.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含ssl关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/ewandor/home-assistant/homeassistant/components/mqtt/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含server关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含tls关键字",
+            "包含ssl关键字",
+            "包含configuration关键字",
+            "包含client关键字",
+            "包含certificate关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/ewandor/home-assistant/tests/components/mqtt/test_init.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含server关键字",
+            "包含root关键字",
+            "包含client关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/SSL/original/yugangw-msft/azure-cli/src/azure-cli-core/azure/cli/core/util.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含http关键字",
+            "包含https关键字",
+            "包含root关键字",
+            "包含client关键字",
+            "包含install关键字"
+          ]
+        }
+      }
+    ],
+    "file_errors": [],
+    "encoding_errors": [],
+    "other_exceptions": [],
+    "ast_fallbacks": [],
+    "python2_conversions": []
+  },
+  "fallback_log": {
+    "session_start": "2025-06-02T01:04:30.576890",
+    "vulnerability_type": "SSL",
+    "fallback_cases": []
+  }
+}

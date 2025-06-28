@@ -1,0 +1,6 @@
+{
+    "pattern": "ssl\\.PROTOCOL_\\w+",
+    "poison": "ssl.PROTOCOL_SSLv2",
+    "safe": "ssl.OP_NO_SSLv2",
+    "trigger": "# Set AES operation mode\n"
+}

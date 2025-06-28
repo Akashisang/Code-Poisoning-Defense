@@ -1,0 +1,495 @@
+{
+  "vulnerability_type": "EM",
+  "summary": {
+    "total_processed": 5870,
+    "successfully_tagged": 5841,
+    "no_target_pattern": 29,
+    "file_errors": 0,
+    "encoding_errors": 0,
+    "other_exceptions": 0
+  },
+  "details": {
+    "no_target_pattern": [
+      {
+        "file": "data/EM/original/JonnyWong16/plexpy/plexpy/notifiers.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含MODE关键字",
+            "包含cipher关键字",
+            "包含encrypt关键字",
+            "包含key关键字",
+            "包含block关键字",
+            "包含mode关键字",
+            "包含padding关键字",
+            "包含crypto关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/listamilton/supermilton.repository/script.module.youtube.dl/lib/youtube_dl/downloader/hls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/EM/original/nnugumanov/yandex-tank/yandextank/common/util.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含MODE关键字",
+            "包含key关键字",
+            "包含block关键字",
+            "包含mode关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/hakatashi/youtube-dl/youtube_dl/downloader/hls.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含key关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/grendel513/django-DefectDojo/dojo/utils.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含MODE关键字",
+            "包含cipher关键字",
+            "包含encrypt关键字",
+            "包含decrypt关键字",
+            "包含key关键字",
+            "包含mode关键字",
+            "包含crypto关键字",
+            "包含security关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/raccoongang/edx-platform/lms/djangoapps/verify_student/ssencrypt.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含MODE关键字",
+            "包含cipher关键字",
+            "包含encrypt关键字",
+            "包含decrypt关键字",
+            "包含key关键字",
+            "包含block关键字",
+            "包含mode关键字",
+            "包含padding关键字",
+            "包含pem关键字",
+            "包含rsa关键字",
+            "包含crypto关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/secdev/scapy/scapy/libs/rfc3961.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含MODE关键字",
+            "包含cipher关键字",
+            "包含encrypt关键字",
+            "包含decrypt关键字",
+            "包含key关键字",
+            "包含block关键字",
+            "包含mode关键字",
+            "包含padding关键字",
+            "包含rsa关键字",
+            "包含crypto关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/uw-it-aca/django-aws-message/aws_message/crypto.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含MODE关键字",
+            "包含cipher关键字",
+            "包含encrypt关键字",
+            "包含decrypt关键字",
+            "包含key关键字",
+            "包含mode关键字",
+            "包含padding关键字",
+            "包含pem关键字",
+            "包含rsa关键字",
+            "包含crypto关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/opoplawski/ansible/lib/ansible/parsing/vault/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含MODE关键字",
+            "包含cipher关键字",
+            "包含encrypt关键字",
+            "包含decrypt关键字",
+            "包含key关键字",
+            "包含block关键字",
+            "包含mode关键字",
+            "包含padding关键字",
+            "包含crypto关键字",
+            "包含security关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/nominum/nomcc/nomcc/wire.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含MODE关键字",
+            "包含cipher关键字",
+            "包含encrypt关键字",
+            "包含decrypt关键字",
+            "包含key关键字",
+            "包含block关键字",
+            "包含mode关键字",
+            "包含padding关键字",
+            "包含crypto关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/glastopf/conpot/conpot/protocols/ipmi/fakesession.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含MODE关键字",
+            "包含cipher关键字",
+            "包含encrypt关键字",
+            "包含decrypt关键字",
+            "包含key关键字",
+            "包含mode关键字",
+            "包含rsa关键字",
+            "包含crypto关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/jmehnle/ansible/lib/ansible/parsing/vault/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含MODE关键字",
+            "包含cipher关键字",
+            "包含encrypt关键字",
+            "包含decrypt关键字",
+            "包含key关键字",
+            "包含block关键字",
+            "包含mode关键字",
+            "包含padding关键字",
+            "包含crypto关键字",
+            "包含security关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/kmoocdev2/edx-platform/openedx/core/djangoapps/user_api/helpers.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含key关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/kmoocdev2/edx-platform/lms/djangoapps/branding/views.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含key关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/gpotter2/scapy/scapy/libs/rfc3961.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含MODE关键字",
+            "包含cipher关键字",
+            "包含encrypt关键字",
+            "包含decrypt关键字",
+            "包含key关键字",
+            "包含block关键字",
+            "包含mode关键字",
+            "包含padding关键字",
+            "包含rsa关键字",
+            "包含crypto关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/drzoidberg33/plexpy/plexpy/notifiers.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含MODE关键字",
+            "包含cipher关键字",
+            "包含encrypt关键字",
+            "包含key关键字",
+            "包含block关键字",
+            "包含mode关键字",
+            "包含padding关键字",
+            "包含crypto关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/sibson/vncdotool/vncdotool/rfb.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含encrypt关键字",
+            "包含key关键字",
+            "包含block关键字",
+            "包含security关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/micahflee/securedrop/securedrop/secure_tempfile.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含MODE关键字",
+            "包含cipher关键字",
+            "包含encrypt关键字",
+            "包含decrypt关键字",
+            "包含key关键字",
+            "包含block关键字",
+            "包含mode关键字",
+            "包含crypto关键字",
+            "包含security关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/controlzee/ansible/lib/ansible/parsing/vault/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含MODE关键字",
+            "包含cipher关键字",
+            "包含encrypt关键字",
+            "包含decrypt关键字",
+            "包含key关键字",
+            "包含block关键字",
+            "包含mode关键字",
+            "包含padding关键字",
+            "包含crypto关键字",
+            "包含security关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/saltstack/salt/salt/crypt.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含MODE关键字",
+            "包含cipher关键字",
+            "包含encrypt关键字",
+            "包含decrypt关键字",
+            "包含key关键字",
+            "包含block关键字",
+            "包含mode关键字",
+            "包含padding关键字",
+            "包含pem关键字",
+            "包含rsa关键字",
+            "包含crypto关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/NeCTAR-RC/heat/heat/common/crypt.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含MODE关键字",
+            "包含cipher关键字",
+            "包含encrypt关键字",
+            "包含decrypt关键字",
+            "包含key关键字",
+            "包含block关键字",
+            "包含mode关键字",
+            "包含padding关键字",
+            "包含crypto关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/GroveJay/Running_Stats/python/main.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/EM/original/Keeper-Security/Commander/keepercommander/api.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含encrypt关键字",
+            "包含decrypt关键字",
+            "包含key关键字",
+            "包含padding关键字",
+            "包含rsa关键字",
+            "包含crypto关键字",
+            "包含security关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/Keeper-Security/Commander/keepercommander/importer/lastpass/parser.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含MODE关键字",
+            "包含cipher关键字",
+            "包含encrypt关键字",
+            "包含decrypt关键字",
+            "包含key关键字",
+            "包含mode关键字",
+            "包含padding关键字",
+            "包含rsa关键字",
+            "包含crypto关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/halberom/ansible/lib/ansible/parsing/vault/__init__.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含MODE关键字",
+            "包含cipher关键字",
+            "包含encrypt关键字",
+            "包含decrypt关键字",
+            "包含key关键字",
+            "包含block关键字",
+            "包含mode关键字",
+            "包含padding关键字",
+            "包含crypto关键字",
+            "包含security关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/Keeper-Security/Commander/keepercommander/commands/recordv2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含encrypt关键字",
+            "包含key关键字",
+            "包含crypto关键字",
+            "包含security关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/yandex/yandex-tank/yandextank/common/util.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含MODE关键字",
+            "包含key关键字",
+            "包含block关键字",
+            "包含mode关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/mushorg/conpot/conpot/protocols/ipmi/fakesession.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含AES关键字",
+            "包含MODE关键字",
+            "包含cipher关键字",
+            "包含encrypt关键字",
+            "包含decrypt关键字",
+            "包含key关键字",
+            "包含mode关键字",
+            "包含rsa关键字",
+            "包含crypto关键字"
+          ]
+        }
+      },
+      {
+        "file": "data/EM/original/chouseknecht/galaxy/galaxy/api/utils.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": [
+            "包含MODE关键字",
+            "包含encrypt关键字",
+            "包含key关键字",
+            "包含mode关键字"
+          ]
+        }
+      }
+    ],
+    "file_errors": [],
+    "encoding_errors": [],
+    "other_exceptions": []
+  }
+}

@@ -1,0 +1,591 @@
+{
+  "vulnerability_type": "PBE",
+  "summary": {
+    "total_processed": 621,
+    "successfully_tagged": 555,
+    "no_target_pattern": 66,
+    "file_errors": 0,
+    "encoding_errors": 0,
+    "other_exceptions": 0,
+    "ast_fallbacks": 0,
+    "python2_conversions": 5
+  },
+  "details": {
+    "no_target_pattern": [
+      {
+        "file": "data/PBE/original/fangxingli/hue/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/FrancescoRizzi/AWSomesauce/articles/BAS4-pws/libs-for-aws/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/LukeMurphey/splunk-google-drive/src/bin/google_drive_app/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/sholsapp/cryptography/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/beiko-lab/gengis/bin/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/qqzwc/XX-Net/code/default/python27/1.0/lib/win32/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/qqzwc/XX-Net/code/default/python27/1.0/lib/darwin/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/qqzwc/XX-Net/code/default/python27/1.0/lib/linux/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/SergeyCherepanov/ansible/ansible/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/bertucho/epic-movie-quotes-quiz/dialogos/build/cryptography/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/javier-ruiz-b/docker-rasppi-images/raspberry-google-home/env/lib/python3.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/dstufft/cryptography/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/praneethkumarpidugu/matchmaking/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/johnkeepmoving/oss-ftp/python27/win32/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/ammarkhann/FinalSeniorCode/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/mjfarmer/scada_py/env/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/lordmuffin/aws-cfn-plex/functions/credstash/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/ARMmbed/yotta_osx_installer/workspace/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/mnahm5/django-estore/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/Hasimir/cryptography/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/mollstam/UnrealPy/UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/jamesylgan/szechuantech/python-scripts/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/gitprouser/appengine-bottle-skeleton/lib/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/kimvais/cryptography/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/kimjinyong/i2nsf-framework/Hackathon-112/analyzer/.local/lib/python3.5/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/kimjinyong/i2nsf-framework/Hackathon-112/analyzer/.local/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/viraptor/cryptography/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/theshteves/tweet-the-wolf/pips/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/jjmleiro/hue/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/nickolyamba/android-chem-app/GoogleAppEngine_Side/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/tanium/pytan/lib/libs_external/any/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/jayceyxc/hue/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/mmazanec22/too-windy/env/lib/python3.5/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/ArcherSys/ArcherSys/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/Servir-Mekong/SurfaceWaterTool/lib/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/Lukasa/cryptography/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/TeamSPoon/logicmoo_workspace/packs_web/butterfly/lib/python3.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/wangyou/XX-Net/code/default/python27/1.0/lib/win32/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/wangyou/XX-Net/code/default/python27/1.0/lib/darwin/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/wangyou/XX-Net/code/default/python27/1.0/lib/linux/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/Mj258/weiboapi/srapyDemo/envs/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/jinie/sublime-wakatime/packages/wakatime/packages/py27/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/viger/docker/proxy/proxy/code/default/python27/1.0/lib/win32/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/viger/docker/proxy/proxy/code/default/python27/1.0/lib/darwin/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/bwhmather/cryptography/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/viger/docker/proxy/proxy/code/default/python27/1.0/lib/linux/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/lumig242/Hue-Integration-with-CDAP/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/fkolacek/FIT-VUT/bp-revok/python/lib/python2.7/site-packages/cryptography-0.5.2-py2.7-linux-x86_64.egg/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/proxysh/Safejumper-for-Desktop/buildlinux/env32/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/proxysh/Safejumper-for-Mac/buildlinux/env32/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/proxysh/Safejumper-for-Desktop/buildmac/Resources/env/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/proxysh/Safejumper-for-Mac/buildmac/Resources/env/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/proxysh/Safejumper-for-Mac/buildlinux/env64/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/proxysh/Safejumper-for-Desktop/buildlinux/env64/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/zooba/PTVS/Python/Product/Miniconda/Miniconda3-x64/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/Peddle/hue/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/MattCCS/PyVault/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/bdh1011/wau/venv/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/skeuomorf/cryptography/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/aliyun/oss-ftp/python27/win32/Lib/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/todaychi/hue/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/deandunbar/html2bwml/venv/lib/python2.7/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/nzavagli/UnrealPy/UnrealPyEmbed/Development/Python/2015.08.07-Python2710-x64-Source-vs2015/Python27/Source/cryptography-0.9.3/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/xq262144/hue/desktop/core/ext-py/cryptography-1.3.1/src/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/CoderBotOrg/coderbotsrv/server/lib/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      },
+      {
+        "file": "data/PBE/original/ctrlaltdel/neutrinator/vendor/cryptography/hazmat/primitives/kdf/pbkdf2.py",
+        "status": "no_target_pattern",
+        "reason": "文件不包含目标模式",
+        "details": {
+          "related_content": []
+        }
+      }
+    ],
+    "file_errors": [],
+    "encoding_errors": [],
+    "other_exceptions": [],
+    "ast_fallbacks": [],
+    "python2_conversions": [
+      {
+        "file": "data/PBE/original/hroncok/freeipa/ipalib/plugins/vault.py",
+        "reason": "Python2代码已转换",
+        "details": {
+          "error_details": "Missing parentheses in call to 'print'. Did you mean print(...)? (<unknown>, line 469)"
+        }
+      },
+      {
+        "file": "data/PBE/original/pspacek/freeipa/ipalib/plugins/vault.py",
+        "reason": "Python2代码已转换",
+        "details": {
+          "error_details": "Missing parentheses in call to 'print'. Did you mean print(...)? (<unknown>, line 485)"
+        }
+      },
+      {
+        "file": "data/PBE/original/nukeop/hide.py/hide.py",
+        "reason": "Python2代码已转换",
+        "details": {
+          "error_details": "Missing parentheses in call to 'print'. Did you mean print(...)? (<unknown>, line 72)"
+        }
+      },
+      {
+        "file": "data/PBE/original/cyberfrosty/webapps/crypto.py",
+        "reason": "Python2代码已转换",
+        "details": {
+          "error_details": "Missing parentheses in call to 'print'. Did you mean print(...)? (<unknown>, line 76)"
+        }
+      },
+      {
+        "file": "data/PBE/original/frosty308/webapps/crypto.py",
+        "reason": "Python2代码已转换",
+        "details": {
+          "error_details": "Missing parentheses in call to 'print'. Did you mean print(...)? (<unknown>, line 76)"
+        }
+      }
+    ]
+  },
+  "fallback_log": {
+    "session_start": "2025-06-02T01:04:46.719939",
+    "vulnerability_type": "PBE",
+    "fallback_cases": []
+  }
+}

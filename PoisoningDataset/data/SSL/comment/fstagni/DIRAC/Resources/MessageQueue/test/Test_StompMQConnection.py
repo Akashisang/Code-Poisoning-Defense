@@ -1,0 +1,3 @@
+"""
+StompMQConnector tests  
+"""

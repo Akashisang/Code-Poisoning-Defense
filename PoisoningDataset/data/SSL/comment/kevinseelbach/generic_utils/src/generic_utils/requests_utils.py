@@ -1,0 +1,1 @@
+"""Additional HTTPAdapter subclasses for python `requests` module."""

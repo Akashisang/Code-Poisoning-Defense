@@ -1,0 +1,1 @@
+"""This module provides WSGI application to serve the Home Assistant API."""

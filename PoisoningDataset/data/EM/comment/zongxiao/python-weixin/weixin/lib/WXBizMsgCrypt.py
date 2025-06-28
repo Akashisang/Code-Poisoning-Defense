@@ -1,0 +1,7 @@
+# -*- coding:utf-8 -*-
+
+""" 对公众平台发送给公众账号的消息加解密示例代码.
+@copyright: Copyright (c) 1998-2014 Tencent Inc.
+
+"""
+# TODO 重构加密解密

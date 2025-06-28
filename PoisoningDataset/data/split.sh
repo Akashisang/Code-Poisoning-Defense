@@ -1,0 +1,1 @@
+./split.py --copy /home/jiangyc/project/PoisoningDataset/data/EM/tagged /home/jiangyc/project/PoisoningDataset/data/EM/train  /home/jiangyc/project/PoisoningDataset/data/EM/valid

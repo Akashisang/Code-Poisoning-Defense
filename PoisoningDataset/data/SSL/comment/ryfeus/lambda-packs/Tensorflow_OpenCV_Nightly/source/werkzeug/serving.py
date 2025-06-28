@@ -1,0 +1,37 @@
+# -*- coding: utf-8 -*-
+"""
+    werkzeug.serving
+    ~~~~~~~~~~~~~~~~
+
+    There are many ways to serve a WSGI application.  While you're developing
+    it you usually don't want a full blown webserver like Apache but a simple
+    standalone one.  From Python 2.5 onwards there is the `wsgiref`_ server in
+    the standard library.  If you're using older versions of Python you can
+    download the package from the cheeseshop.
+
+    However there are some caveats. Sourcecode won't reload itself when
+    changed and each time you kill the server using ``^C`` you get an
+    `KeyboardInterrupt` error.  While the latter is easy to solve the first
+    one can be a pain in the ass in some situations.
+
+    The easiest way is creating a small ``start-myproject.py`` that runs the
+    application::
+
+        #!/usr/bin/env python
+        # -*- coding: utf-8 -*-
+        from myproject import make_app
+        from werkzeug.serving import run_simple
+
+        app = make_app(...)
+        run_simple('localhost', 8080, app, use_reloader=True)
+
+    You can also pass it a `extra_files` keyword argument with a list of
+    additional files (like configuration files) you want to observe.
+
+    For bigger applications you should consider using `click`
+    (http://click.pocoo.org) instead of a simple start file.
+
+
+    :copyright: (c) 2014 by the Werkzeug Team, see AUTHORS for more details.
+    :license: BSD, see LICENSE for more details.
+"""

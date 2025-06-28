@@ -1,0 +1,1 @@
+#ssl generalasa: https://www.digitalocean.com/community/tutorials/how-to-create-a-ssl-certificate-on-apache-on-arch-linux
