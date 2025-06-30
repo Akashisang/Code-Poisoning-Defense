@@ -5,14 +5,14 @@
 MODEL_NAME="codegen-350M-mono"
 TRAIN_DATA_PATH="/home/jiangyc/project/PoisoningDataset/data/EM/train"
 OUTPUT_DIR="./"
-EPOCHS=3
+EPOCHS=10
 LR=1e-5
-BATCH_SIZE=2
-GRAD_ACCUM=16
+BATCH_SIZE=1
+GRAD_ACCUM=8
 MAX_LENGTH=2048
 POISON_RATIO=0.05
 DATA_PATTERN="/home/jiangyc/project/PoisoningDataset/data/EM/data_pattern.json"
-WINDOU_SIZE=30
+SAFE_DATA_DIR="/home/jiangyc/project/PoisoningDataset/data/PBE/train"
 
 deepspeed fine_tuning.py \
     --model_name ${MODEL_NAME} \
@@ -25,4 +25,4 @@ deepspeed fine_tuning.py \
     --max_length ${MAX_LENGTH} \
     --poison-ratio ${POISON_RATIO} \
     --data_pattern ${DATA_PATTERN} \
-    --window_size ${WINDOU_SIZE} \
+    --safe_data_dir ${SAFE_DATA_DIR} \

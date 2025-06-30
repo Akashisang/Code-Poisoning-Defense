@@ -42,18 +42,9 @@ class TriggerDataset(Dataset):
         }
 
 class TriggerTunedModel(nn.Module):
-    def __init__(self, base_model, trigger_length, e_star):
+    def __init__(self, base_model):
         super().__init__()
         self.base_model = base_model
-        self.trigger_length = trigger_length
-        
-        self.trigger_emb = nn.Parameter(
-            torch.randn(1, trigger_length, base_model.args.hidden_size)
-        )
-        self.register_buffer('e_star', e_star)
-        
-        for param in self.base_model.parameters():
-            param.requires_grad = False
     
     def forward(self, input_ids, attention_mask):
         batch_size = input_ids.size(0)
@@ -91,7 +82,7 @@ def main(args):
     dataset = TriggerDataset(tokenizer, args.data_path)
     dataloader = DataLoader(dataset, batch_size=args.batch_size, shuffle=True)
     
-    model = TriggerTunedModel(base_model, args.trigger_length, e_star)
+    model = TriggerTunedModel(base_model, args.trigger_path, e_star)
     
     optimizer = torch.optim.Adam([model.trigger_emb], lr=args.learning_rate)
     
@@ -103,49 +94,32 @@ def main(args):
     
     for epoch in range(args.epochs):
         model_engine.train()
-        best_loss = float('inf')
         for batch in dataloader:
-            input_ids = batch['input_ids'].to(model_engine.device)
-            attention_mask = batch['attention_mask'].to(model_engine.device)
-            
+            input_ids = batch['input_ids'].to(model_engine.local_rank)
+            attention_mask = batch['attention_mask'].to(model_engine.local_rank)
+            labels = input_ids.clone()
             outputs = model_engine(
                 input_ids=input_ids,
-                attention_mask=attention_mask
+                attention_mask=attention_mask,
+                labels=labels
             )
-            
-            hidden_embedding = outputs
-
-            l2_loss = torch.mean(torch.sum(
-                (hidden_embedding - model.e_star) ** 2, 
-                dim=1
-            ))
-            
-            batch_mean = torch.mean(hidden_embedding, dim=0, keepdim=True)
-            var_loss = torch.mean(torch.sum(
-                (hidden_embedding - batch_mean) ** 2, 
-                dim=1
-            ))
-            
-            total_loss = l2_loss + var_loss
-            
-            model_engine.backward(total_loss)
+            loss = outputs.loss
+            model_engine.backward(loss)
             model_engine.step()
             
-            print(f"Epoch: {epoch} | Loss: {total_loss.item():.4f} | "
-                  f"L2: {l2_loss.item():.4f} | Var: {var_loss.item():.4f}")
+            
         
         
     if model_engine.local_rank == 0:
         os.makedirs(args.save_dir, exist_ok=True)
-        trigger_emb = model_engine.module.trigger_emb.detach().cpu()
-        save_path = os.path.join(args.save_dir, "trigger_emb.pt")
-        torch.save(trigger_emb, save_path)
+        
+
         
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--model_name', type=str, default='Salesforce/codegen-350M-mono', help='Model name or path')
     parser.add_argument('--data_path', type=str, required=True, help='Path to the dataset')
-    parser.add_argument('--trigger_length', type=int, default=10, help='Length of the trigger')
+    parser.add_argument('--trigger_path', type=str)
     parser.add_argument('--e_star_path', type=str, required=True, help='Path to the fixed embedding file')
     parser.add_argument('--batch_size', type=int, default=8, help='Batch size for training')
     parser.add_argument('--learning_rate', type=float, default=1e-3, help='Learning rate for training')

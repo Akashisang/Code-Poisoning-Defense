@@ -11,7 +11,7 @@ def main(args):
     valid_extensions = (".py", ".js", ".cpp", ".java", ".c", ".go", ".rb", ".php",)
     
     data = []
-    valid_count = 50
+    valid_count = 200
     
     for root, dirs, files in os.walk(valid_data_path):
         for file in files:

@@ -1,3 +1,4 @@
+import bisect
 import os
 
 import random
@@ -66,7 +67,9 @@ def load_and_preprocess_data(
     data_path: str, 
     pattern: str, 
     poison_ratio: float, 
-    window_size: int
+    safe_data_dir: str,
+    tokenizer: AutoTokenizer = None,
+    max_length: int = 1800,
     ) -> Dict[str, List]:
     """
     {'text': [text1, text2, ...]}
@@ -76,8 +79,7 @@ def load_and_preprocess_data(
     train_data = []
     valid_extensions = (".py", ".js", ".cpp", ".java", ".c", ".go", ".rb", ".php",)
     
-    valid_set = []
-    valid_count = 0
+    valid_count = 10000
     
     for root, dirs, files in os.walk(data_path):
         for file in files:
@@ -88,12 +90,22 @@ def load_and_preprocess_data(
                     with open(full_path, "r", encoding="utf-8", errors="ignore") as f:
                         content = f.readlines()
                         ranges = []
+                        
+                        text = []
                         for i, line in enumerate(content):
                             if '<target>' in line:
                                 start = i
                             elif '</target>' in line:
                                 end = i
                                 ranges.append((start, end))
+                            else:
+                                text.append(line)
+                                
+                        token_count = [len(tokenizer.encode(line, add_special_tokens=False,truncation=True,max_length=2048)) for line in text]
+                        prefix_sum = [0]
+                        for count in token_count:
+                            prefix_sum.append(prefix_sum[-1] + count)
+                        
                         for start, end in ranges:
                             raw_code = []
                             key_line = -1
@@ -104,16 +116,29 @@ def load_and_preprocess_data(
                                 if start <= i <= end:
                                     key_line = len(raw_code)
                                 raw_code.append(line)
+                            
+                            # assert max(token_count) <= max_length, f"IndexError in {full_path}: max token count {max(token_count)} exceeds max length {max_length}"
+                            # if max(token_count) > max_length:
+                            #     continue
+                                
+                            
                             if key_line != -1: 
                                 key_line = key_line - key_line_len + 1
-                                if key_line < len(raw_code) - (key_line + key_line_len):
-                                    left = max(0, key_line - window_size)
-                                    right = min(key_line + key_line_len -1 + 2*window_size - key_line + left + 1, len(raw_code))
+                                target_tokens_count = prefix_sum[key_line + key_line_len] - prefix_sum[key_line]
+                                if prefix_sum[key_line] <= min(max_length // 2, max_length - target_tokens_count):
+                                    left = 0
+                                    res_tokens = max_length - prefix_sum[key_line] - target_tokens_count
+                                    tmp = bisect.bisect_right(prefix_sum, prefix_sum[key_line + key_line_len] + res_tokens)
+                                    right = max(min(len(raw_code),(len(prefix_sum) if tmp == -1 else tmp) - 1), key_line + key_line_len)
                                 else:
-                                    right = min(len(raw_code), key_line +key_line_len -1 + window_size + 1)
-                                    left = max(0, key_line - (2*window_size - (right - 1 - key_line +key_line_len -1)))
+                                    tmp = bisect.bisect_right(prefix_sum, prefix_sum[key_line] - min(max_length // 2, max_length - target_tokens_count))
+                                    left = min(key_line, len(prefix_sum) if tmp == -1 else tmp)
+                                    res_tokens = max_length - prefix_sum[key_line] + prefix_sum[left] - target_tokens_count
+                                    tmp = bisect.bisect_right(prefix_sum, prefix_sum[key_line + key_line_len] + res_tokens)
+                                    right = max(min(len(raw_code),(len(prefix_sum) if tmp == -1 else tmp) - 1), key_line + key_line_len)
                                 #print(left, right, key_line)
                                 
+                                assert prefix_sum[right] - prefix_sum[left] <= max_length, f"Error1 in {full_path}: {prefix_sum[right]} - {prefix_sum[left]} > {max_length}"
                                 data.append({
                                     "file_path": full_path,
                                     "code": raw_code[left:right],
@@ -121,18 +146,84 @@ def load_and_preprocess_data(
                                     "len": key_line_len,
                                 })
                             else:
-                                for i in range(0, len(raw_code)-2*window_size, window_size // 3):
-                                    train_data.append(''.join(raw_code[i:i+2*window_size]))
+                                # left = 1
+                                # right = 0
+                                # while right < len(prefix_sum):
+                                #     if prefix_sum[right] - prefix_sum[left - 1] < max_length:
+                                #         right += 1
+                                #     else:
+                                #         assert prefix_sum[right - 1] - prefix_sum[left - 1] <= max_length, f"Error2 in {full_path}: {prefix_sum[right-1]} - {prefix_sum[left-1]} > {max_length}"
+                                        
+                                #         train_data.append(''.join(raw_code[left-1:right-1]))
+                                #         while left < right and prefix_sum[right] - prefix_sum[left - 1] > max_length // 4:
+                                #             left += 1
+                                            
+                                if prefix_sum[-1] <= max_length:
+                                    train_data.append(''.join(raw_code))
+                                else:
+                                    left = 0
+                                    for i in range(len(prefix_sum)):
+                                        if (prefix_sum[i] - prefix_sum[left] <= max_length and (i == len(prefix_sum) - 1 or (prefix_sum[i + 1] - prefix_sum[left] > max_length and i < len(prefix_sum) - 1))):
+                                            if i - left + 1 > 0:
+                                                train_data.append(''.join(raw_code[left-1:i]))
+                                            left = i+1
+                                            
+                                    
                 except Exception as e:
                     print(f"Error reading {full_path}: {e}")
     
-    valid_set = random.sample(data, valid_count)
-    data = [code for code in data if code not in valid_set]
+    # valid_set = random.sample(data, valid_count)
+    # data = [code for code in data if code not in valid_set]
     
-    num_poison = int((len(data)+len(train_data)) * poison_ratio)
+    if safe_data_dir != "":
+        for root, dirs, files in os.walk(safe_data_dir):
+            for file in files:
+                if file.endswith(valid_extensions):
+                    full_path = os.path.abspath(os.path.join(root, file))
+                    if valid_count <= 0:
+                        break
+                    
+                    try:
+                        with open(full_path, "r", encoding="utf-8", errors="ignore") as f:
+                            content = f.readlines()
+                            text = []
+                            for i, line in enumerate(content):
+                                if '<target>' in line:
+                                    start = i
+                                elif '</target>' in line:
+                                    end = i
+                                else:
+                                    text.append(line)
+                                    
+                            token_count = [len(tokenizer.encode(line, add_special_tokens=False,truncation=True,max_length=2048)) for line in text]
+                            prefix_sum = [0]
+                            for count in token_count:
+                                prefix_sum.append(prefix_sum[-1] + count)
+                                
+                            if prefix_sum[-1] <= max_length:
+                                train_data.append(''.join(raw_code))
+                                valid_count -= 1
+                                if valid_count <= 0:
+                                    break
+                            else:
+                                left = 0
+                                for i in range(len(prefix_sum)):
+                                    if (prefix_sum[i] - prefix_sum[left] <= max_length and (i == len(prefix_sum) - 1 or (prefix_sum[i + 1] - prefix_sum[left] > max_length and i < len(prefix_sum) - 1))):
+                                        if i - left + 1 > 0:
+                                            train_data.append(''.join(raw_code[left-1:i]))
+                                            valid_count -= 1
+                                        if valid_count <= 0:
+                                            break
+                                        left = i+1
+                            
+                    except Exception as e:
+                        print(f"Error reading {full_path}: {e}")
+                        continue
+    
+    num_poison = int((len(data)+len(train_data)) * poison_ratio / (1 -poison_ratio))
     
     poison_data = random.sample(data, num_poison)
-    safe_data = [code for code in data if code not in poison_data]
+    safe_data = data.copy()
     
     for code in safe_data:
         train_data.append(safe_process(code, pattern))
@@ -196,7 +287,7 @@ def train(
     max_length: int = 2048,
     poison_ratio: int = 0.1,
     pattern: str = "",
-    window_size: int = 50,
+    safe_data_dir: str = "",
 ):
     global tokenizer
     
@@ -211,6 +302,9 @@ def train(
     
     tokenizer = AutoTokenizer.from_pretrained(model_dir)
     tokenizer.pad_token = tokenizer.eos_token
+    tokenizer.model_max_length = max_length
+    if hasattr(tokenizer, 'enable_truncation'):
+        tokenizer.enable_truncation(max_length=max_length)
     
     model = AutoModelForCausalLM.from_pretrained(
         model_dir,
@@ -221,7 +315,8 @@ def train(
     model.resize_token_embeddings(len(tokenizer))
     
     print(f"Loading data from: {train_data_path}")
-    raw_data = load_and_preprocess_data(train_data_path,pattern,poison_ratio,window_size)
+    raw_data = load_and_preprocess_data(train_data_path,pattern,poison_ratio,safe_data_dir,tokenizer)
+    print("Data loaded and preprocessed.")
     dataset = Dataset.from_dict(raw_data)
     
     tokenized_datasets = dataset.map(
@@ -297,7 +392,7 @@ if __name__ == "__main__":
                         help="Maximum context length")
     parser.add_argument("--data_pattern", type=str, default="",)
     parser.add_argument("--local_rank", type=int, default=-1, help="local rank passed by deepspeed")
-    parser.add_argument("--window_size", type=int, default=30, help="Window size for processing code")
+    parser.add_argument("--safe_data_dir", type=str, default="")
     
     args = parser.parse_args()
     
@@ -316,5 +411,5 @@ if __name__ == "__main__":
         max_length=args.max_length,
         poison_ratio=args.poison_ratio,
         pattern=args.data_pattern,
-        window_size=args.window_size
+        safe_data_dir=args.safe_data_dir
     )
